@@ -111,6 +111,9 @@ def predict(inp: PredictIn):
         ratio = prior_val * np.exp(res_pred)
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
+        
+        # Limita la proporción para que no supere 100%
+        ratio = min(ratio, 1.0)
 
         precio_estimado = float(inp.listPrice) * ratio
 
