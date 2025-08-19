@@ -7,7 +7,7 @@ import joblib
 import scipy.sparse as sp
 
 from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 from typing import List, Dict
 
 OUTDIR = "model_ratio_mm"
@@ -17,7 +17,7 @@ DEPREC_PRIMER_ANIO    = 0.22
 MIN_DEPREC_YRS_1_5    = 0.07
 MAX_RATIO_VS_PREV_GT5 = 0.98
 
-app = FastAPI(title="API Ratio-MM Residual", version="2.3.0")
+app = FastAPI(title="API Ratio-MM Residual", version="3.0.0")
 
 class PredictIn(BaseModel):
     Marca_Modelo: str
@@ -28,6 +28,7 @@ class PredictIn(BaseModel):
     Kilometraje: float
     listPrice: float  # requerido
 
+# ========== Carga de artefactos ==========
 try:
     model   = joblib.load(os.path.join(OUTDIR, 'model_residual.pkl'))
     encs    = joblib.load(os.path.join(OUTDIR, 'encoders.pkl'))
@@ -39,12 +40,7 @@ try:
     catalog_path = os.path.join(OUTDIR, 'catalog.json')
     if os.path.exists(catalog_path):
         with open(catalog_path, 'r', encoding='utf-8') as f:
-            CATALOG = [
-                {"Marca": str(it.get("Marca","")).strip(),
-                 "Modelo": str(it.get("Modelo","")).strip(),
-                 "Version": str(it.get("Version","")).strip()}
-                for it in json.load(f)
-            ]
+            CATALOG = json.load(f)
     else:
         CATALOG = []
 except Exception as e:
@@ -53,7 +49,7 @@ except Exception as e:
 pre   = encs['pre']
 te_mm = encs.get('te_mm', {})
 
-# ----- Prior -----
+# ========== Prior ==========
 def prior_age(age: float) -> float:
     a = float(max(0.0, min(age, 20.0)))
     if a <= 1.0:
@@ -65,7 +61,7 @@ def prior_age(age: float) -> float:
 
 def prior_km(km: float) -> float:
     MAX_KM = 300_000.0
-    SALV   = 0.15
+    SALV = 0.15
     k = float(max(0.0, min(km, MAX_KM)))
     x = k / MAX_KM
     exponent = 0.35 * x + 0.15 * max(0.0, x - 0.25)
@@ -74,134 +70,75 @@ def prior_km(km: float) -> float:
 def make_prior(age: float, km: float) -> float:
     return prior_age(age) * prior_km(km)
 
-def age_multiplier(age: float) -> float:
-    b = int(round(max(0.0, min(age, 20.0))))
-    return float(AGE_CAL.get(str(b), 1.0))
+# ========== Calibraciones ==========
+def apply_age_calibration(age: float) -> float:
+    b = str(int(round(min(max(age, 0), 20))))
+    return float(AGE_CAL.get(b, 1.0))
 
-def km_multiplier(km: float) -> float:
-    b = int(round(max(0.0, min(km, 300000.0)) / 20000.0))
-    return float(KM_CAL.get(str(b), 1.0))
+def apply_km_calibration(km: float) -> float:
+    b = str(int(round(min(max(km / 20000.0, 0), 15))))
+    return float(KM_CAL.get(b, 1.0))
 
-# ----- Features -----
+# ========== Features ==========
 def build_features(inp: PredictIn):
-    mm  = inp.Marca_Modelo.strip()
-    ver = inp.Version.strip()
-    mm_upl_dict = uplifts.get(mm, {})
-    ver_uplift  = float(mm_upl_dict.get(ver, 1.0))
+    mm = str(inp.Marca_Modelo).strip()
+    ver = str(inp.Version).strip()
+    u = uplifts.get(mm, {}).get(ver, 1.0)
 
-    X_cat = pd.DataFrame([{'Transmision': inp.Transmision, 'Location': inp.Location}])
     X_num = pd.DataFrame([{
         'Antiguedad': float(inp.Antiguedad),
         'Kilometraje': float(inp.Kilometraje),
-        'pseudo_listPrice': float(inp.listPrice)   # usamos listPrice real aquí
+        'pseudo_listPrice': float(inp.listPrice),
+        'log_listPrice': np.log1p(float(inp.listPrice))
+    }])
+
+    X_cat = pd.DataFrame([{
+        'Transmision': str(inp.Transmision).strip(),
+        'Location': str(inp.Location).strip()
     }])
 
     X_basic = pre.transform(pd.concat([X_cat, X_num], axis=1))
-    if not sp.issparse(X_basic):
-        X_basic = sp.csr_matrix(X_basic)
 
-    mm_te_default = float(np.mean(list(te_mm.values()))) if len(te_mm) else 0.0
-    mm_te_val = float(te_mm.get(mm, mm_te_default))
+    mm_te = float(te_mm.get(mm, np.mean(list(te_mm.values()))))
+    mm_te_sparse = sp.csr_matrix(np.array([[mm_te]]))
+    uplift_sparse = sp.csr_matrix(np.array([[u]]))
 
-    mm_te_sparse  = sp.csr_matrix([[mm_te_val]])
-    uplift_sparse = sp.csr_matrix([[ver_uplift]])
-    X = sp.hstack([X_basic, mm_te_sparse, uplift_sparse], format='csr')
-    return X
+    return sp.hstack([X_basic, mm_te_sparse, uplift_sparse], format='csr')
 
-def predict_raw_ratio(inp: PredictIn) -> float:
-    X = build_features(inp)
-    res_hat = float(model.predict(X)[0])
-    prior   = make_prior(inp.Antiguedad, inp.Kilometraje)
-    ratio   = prior * float(np.exp(res_hat))
-    ratio  *= age_multiplier(inp.Antiguedad)
-    ratio  *= km_multiplier(inp.Kilometraje)
-    return float(max(0.1, min(ratio, 1.2)))
-
-# ----- Trayectoria -----
-def price_raw_for(age: float, total_km: float, data: PredictIn) -> float:
-    age = float(max(0.0, age))
-    if age <= 0.0:
-        km_at_age = 0.0
-    else:
-        km_per_year = max(0.0, total_km) / age
-        km_at_age = km_per_year * age
-    tmp = PredictIn(
-        Marca_Modelo=data.Marca_Modelo, Version=data.Version,
-        Transmision=data.Transmision, Location=data.Location,
-        Antiguedad=age, Kilometraje=km_at_age, listPrice=data.listPrice
-    )
-    raw_ratio = predict_raw_ratio(tmp)
-    return float(data.listPrice) * raw_ratio
-
-def price_final_for(target_age: float, total_km: float, data: PredictIn) -> float:
-    age = float(target_age)
-    if age <= 0.5:
-        return price_raw_for(0.0, total_km, data)
-
-    p1_raw = price_raw_for(1.0, total_km, data)
-    p1_cap = float(data.listPrice) * (1.0 - DEPREC_PRIMER_ANIO)
-    p_prev = min(p1_raw, p1_cap)
-
-    y = 2
-    target_int = int(round(age))
-    while y <= target_int:
-        p_y_raw = price_raw_for(float(y), total_km, data)
-        p_y = p_y_raw
-
-        if 2 <= y <= 5:
-            max_allowed = p_prev * (1.0 - MIN_DEPREC_YRS_1_5)
-            if p_y > max_allowed:
-                p_y = max_allowed
-        elif y > 5:
-            max_allowed = p_prev * MAX_RATIO_VS_PREV_GT5
-            if p_y > max_allowed:
-                p_y = max_allowed
-
-        p_prev = p_y
-        y += 1
-
-    return p_prev
-
-# ----- Endpoints -----
-@app.post("/predecir")
-def predecir(data: PredictIn):
+# ========== Predicción ==========
+@app.post("/predict")
+def predict(inp: PredictIn):
     try:
-        if data.listPrice is None:
-            raise HTTPException(status_code=400, detail="Falta listPrice en el payload.")
+        prior_val = make_prior(inp.Antiguedad, inp.Kilometraje)
+        X = build_features(inp)
+        res_pred = float(model.predict(X)[0])
 
-        ratio_raw  = predict_raw_ratio(data)
-        price_raw  = float(data.listPrice) * ratio_raw
+        ratio = prior_val * np.exp(res_pred)
+        ratio *= apply_age_calibration(inp.Antiguedad)
+        ratio *= apply_km_calibration(inp.Kilometraje)
 
-        price_final = price_final_for(float(data.Antiguedad), float(data.Kilometraje), data)
-        ratio_final = price_final / float(data.listPrice)
+        # reglas negocio
+        if inp.Antiguedad <= 1:
+            ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
+        elif inp.Antiguedad <= 5:
+            ratio = max(ratio, 1.0 - DEPREC_PRIMER_ANIO - MIN_DEPREC_YRS_1_5)
+        else:
+            ratio = min(ratio, MAX_RATIO_VS_PREV_GT5)
+
+        precio_estimado = float(inp.listPrice) * ratio
 
         return {
-            "precio_estimado": round(price_final, 2),
-            "ratio": round(ratio_final, 6),
-            "moneda": "MXN",
-            "version_api": app.version
+            "precio_estimado": precio_estimado,
+            "ratio": ratio,
+            "listPrice": inp.listPrice,
+            "Marca_Modelo": inp.Marca_Modelo,
+            "Version": inp.Version
         }
-    except HTTPException:
-        raise
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/catalogo")
-def catalogo():
-    try:
-        if CATALOG:
-            return CATALOG
-        items: List[Dict[str, str]] = []
-        for mm_key, vers in uplifts.items():
-            parts = mm_key.split(" ", 1)
-            marca = parts[0].strip()
-            modelo = parts[1].strip() if len(parts) > 1 else ""
-            for v in sorted(vers.keys()):
-                items.append({"Marca": marca, "Modelo": modelo, "Version": str(v).strip()})
-        return items
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Error en predicción: {e}")
 
-@app.get("/")
-def root():
-    return {"ok": True, "version": app.version, "requires": ["listPrice"], "endpoints": ["/predecir","/catalogo"]}
+# ========== Catálogo ==========
+@app.get("/catalog")
+def get_catalog() -> List[Dict[str, str]]:
+    return CATALOG
