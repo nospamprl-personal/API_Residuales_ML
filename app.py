@@ -139,6 +139,6 @@ def predict(inp: PredictIn):
         raise HTTPException(status_code=500, detail=f"Error en predicción: {e}")
 
 # ========== Catálogo ==========
-@app.get("/catalog")
+@app.get("/catalogo")
 def get_catalog() -> List[Dict[str, str]]:
     return CATALOG
