@@ -1,0 +1,8287 @@
+[
+  {
+    "Marca": "Acura",
+    "Modelo": "ILX",
+    "Version": "2.4 A-SPEC DCT"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "ILX",
+    "Version": "2.4 TECH DCT"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "Integra",
+    "Version": "1.5 A-SPEC CVT"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "MDX",
+    "Version": "3.5 A-SPEC AUTO 4WD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "MDX",
+    "Version": "3.5 ADVANCE AUTO AWD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "MDX",
+    "Version": "3.5 TECH AUTO 4WD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "RDX",
+    "Version": "2.0 A-SPEC AUTO 4WD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "RDX",
+    "Version": "2.0 A-SPEC AUTO AWD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "RDX",
+    "Version": "2.0 TECH AUTO 4WD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "RDX",
+    "Version": "2.0 TECH AUTO AWD"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "TLX",
+    "Version": "2.0 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Acura",
+    "Modelo": "TLX",
+    "Version": "3.5 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Giulia",
+    "Version": "2.0 TI"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Giulia",
+    "Version": "2.0 VELOCE AUTO"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Giulietta",
+    "Version": "1.8 VELOCE TCT"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Mito",
+    "Version": "1.4 VELOCE"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Tonale",
+    "Version": "1.3 TI PHEV AUTO"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modelo": "Tonale",
+    "Version": "2.0 TI AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A1",
+    "Version": "1.0 SB 30 TFSI COOL DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A1",
+    "Version": "1.0 SB 30 TFSI URBAN DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A1",
+    "Version": "1.5 SB 35 TFSI BLACK EGO EDITION DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A1",
+    "Version": "1.5 SB 35 TFSI EGO DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A1",
+    "Version": "2.0 SB 40 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 TFSI DYNAMIC AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 TFSI DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 TFSI SELECT AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "1.4 35 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "2.0 40 DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "2.0 40 S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "2.0 40 SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "2.0 40 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A3",
+    "Version": "2.0 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A4",
+    "Version": "2.0 40 TFSI DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A4",
+    "Version": "2.0 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A4",
+    "Version": "2.0 MHEV 40 TFSI DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A4",
+    "Version": "2.0 MHEV 40 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A4",
+    "Version": "2.0 MHEV 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5",
+    "Version": "2.0 40 S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5",
+    "Version": "2.0 40 SB S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5",
+    "Version": "2.0 40 SB SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5",
+    "Version": "2.0 45 SB S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5 Coupe",
+    "Version": "2.0 MHEV 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5 Sportback",
+    "Version": "2.0 MHEV SB 40 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A5 Sportback",
+    "Version": "2.0 MHEV SB 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A6",
+    "Version": "2.0 MHEV 40 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A6",
+    "Version": "2.0 MHEV 45 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A6",
+    "Version": "3.0 MHEV 55 TFSI ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A6",
+    "Version": "3.0 MHEV 55 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A7",
+    "Version": "3.0 MHEV 55 TFSI ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "A7 Sportback",
+    "Version": "2.0 MHEV 45 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 SPORT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI DYNAMIC AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI SELECT AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI SPORT AUTO"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "1.4 35 TFSI SPORT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q2",
+    "Version": "2.0 40 S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3",
+    "Version": "1.4 35 TFSI DYNAMIC DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3",
+    "Version": "1.4 35 TFSI S LINE DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3",
+    "Version": "1.4 35 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3",
+    "Version": "2.0 40 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3",
+    "Version": "2.0 40 TFSI SELECT DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3 Sportback",
+    "Version": "1.4 SB 35 TFSI SELECT DCT"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q3 Sportback",
+    "Version": "2.0 SB 40 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 DYNAMIC DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 SELECT DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 TFSI DYNAMIC DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 TFSI ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 45 TFSI SELECT DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 MHEV 45 TFSI DYNAMIC DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 MHEV 45 TFSI ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 MHEV 45 TFSI S LINE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5",
+    "Version": "2.0 MHEV 45 TFSI SELECT DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5 Sportback",
+    "Version": "2.0 MHEV SB 45 TFSI ELITE DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q5 Sportback",
+    "Version": "2.0 MHEV SB 45 TFSI SELECT DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q7",
+    "Version": "3.0 MHEV 55 TFSI S LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q8",
+    "Version": "3.0 MHEV 55 TFSI ELITE AUTO 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "Q8",
+    "Version": "3.0 MHEV 55 TFSI S LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "S3",
+    "Version": "2.0 TFSI S3 DCT 4WD"
+  },
+  {
+    "Marca": "Audi",
+    "Modelo": "e-tron",
+    "Version": "55 ADVANCED 4WD"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "BJ20",
+    "Version": "1.5 TOP AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "BJ40",
+    "Version": "2.0 PLUS AUTO 4WD"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "BJ40",
+    "Version": "2.3 PLUS AUTO 4WD"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "D20",
+    "Version": "1.5 COMFORT"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "M50",
+    "Version": "1.5 SPORT"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "U5 Plus",
+    "Version": "1.5 BEIJING LUXURY"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "U5 Plus",
+    "Version": "1.5 BEIJING LUXURY CVT"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X25",
+    "Version": "1.5 FASHION"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X25",
+    "Version": "1.5 TOP AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X30",
+    "Version": "1.5 FASHION"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X30",
+    "Version": "1.5 FASHION AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X35",
+    "Version": "1.5 FASHION"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X35",
+    "Version": "1.5 FASHION AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X35",
+    "Version": "1.5 TA AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X35",
+    "Version": "1.5 TM"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X65",
+    "Version": "2.0 COMFORT AUTO"
+  },
+  {
+    "Marca": "Baic",
+    "Modelo": "X65",
+    "Version": "2.0 FASHION AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "1.5 118I DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "1.5 118IA M SPORT DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "1.5 118IA SPORT LINE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "1.5 118IA SPORT LINE DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "2.0 120IA M SPORT AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "2.0 120IA M SPORT DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "2.0 120IA SPORT LINE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "2.0 128TI AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 1",
+    "Version": "2.0 M135I XDRIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 220I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 220I GRAN COUPE DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 220IA EXECUTIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 220IA M SPORT AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 220IA SPORT LINE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "2.0 M235I XDRIVE GRAN COUPE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "3.0 M2 COMPETITION"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "3.0 M2 COMPETITION DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "3.0 M240I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 2",
+    "Version": "3.0 M240IA AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 320I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 320IA EXECUTIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 320IA SPORT LINE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330E PHEV AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330E SPORT LINE PLUS"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330I M SPORT SHADOW EDITION AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330IA M SPORT AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330IA SPORT LINE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "2.0 330IA SPORT LINE PLUS AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 3",
+    "Version": "3.0 M340I XDRIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 420IA EXECUTIVE"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 420IA GRAN COUPE EXECUTIVE"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 420IA GRAN COUPE SPORT LINE"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 430I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 430I GRAN COUPE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 430IA GRAN COUPE M SPORT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 430IA GRAN COUPE SPORT LINE"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "2.0 430IA SPORT LINE"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "3.0 440IA GRAN COUPE M SPORT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "3.0 440IA M SPORT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Serie 4",
+    "Version": "3.0 M440I XDRIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "1.5 SDRIVE18I DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "1.5 SDRIVE18IA EXECUTIVE DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "2.0 SDRIVE20I DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "2.0 SDRIVE20I M SPORT EDITION DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "2.0 SDRIVE20IA M SPORT DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X1",
+    "Version": "2.0 SDRIVE20IA X LINE DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "1.5 SDRIVE18I DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "1.5 SDRIVE18IA EXECUTIVE DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 M35I XDRIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 M35IA"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 SDRIVE20I M SPORT DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 SDRIVE20IA EXECUTIVE PLUS DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 SDRIVE20IA M SPORT DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X2",
+    "Version": "2.0 SDRIVE20IA M SPORT X DCT"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 SDRIVE20I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 SDRIVE20IA AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 SDRIVE20IA EXECUTIVE AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 XDRIVE30E AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 XDRIVE30E PHEV AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 XDRIVE30I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "2.0 XDRIVE30IA X LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "3.0 M40I AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X3",
+    "Version": "3.0 M40IA AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X4",
+    "Version": "2.0 XDRIVE30I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X4",
+    "Version": "2.0 XDRIVE30IA EXECUTIVE AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X4",
+    "Version": "2.0 XDRIVE30IA X LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X4",
+    "Version": "3.0 M40I AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X4",
+    "Version": "3.0 M40IA AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "3.0 XDRIVE40I AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "3.0 XDRIVE40IA M SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "3.0 XDRIVE45E AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "3.0 XDRIVE45E PHEV AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "4.4 M50I AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X5",
+    "Version": "4.4 XDRIVE50IA M SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "X6",
+    "Version": "3.0 XDRIVE35IA AUTO 4WD"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "Z4",
+    "Version": "3.0 M40I AUTO"
+  },
+  {
+    "Marca": "Bmw",
+    "Modelo": "iX3",
+    "Version": "BEV 80KWH IMPRESSIVE AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Enclave",
+    "Version": "3.6 AVENIR AUTO 4WD"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Enclave",
+    "Version": "3.6 AVENIR P AUTO 4WD"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Enclave",
+    "Version": "3.6 ESSENCE L AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.3 CONVENIENCE AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.3 ESSENCE AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.3 LEATHER AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.3 SPORT TOURING AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.4 CX N AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Encore",
+    "Version": "1.4 CXL L AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Envision",
+    "Version": "2.0 AVENIR U AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Envision",
+    "Version": "2.0 CXL N 4WD AUTO"
+  },
+  {
+    "Marca": "Buick",
+    "Modelo": "Envision",
+    "Version": "2.0 CXL N AUTO 4WD"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Dolphin",
+    "Version": "BEV 45KWH GS AUTO"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Dolphin Mini",
+    "Version": "BEV 38KWH PLUS AUTO"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "King",
+    "Version": "1.5 PHEV DM-I 55KM AUTO"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Seal",
+    "Version": "BEV 82KWH 4WD"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Song plus",
+    "Version": "1.5 DM-I 115KM AUTO"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Song plus",
+    "Version": "1.5 DM-I AUTO"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Tang",
+    "Version": "BEV 86KWH AUTO 4WD"
+  },
+  {
+    "Marca": "Byd",
+    "Modelo": "Yuan Plus",
+    "Version": "BEV 60KWH 480KM GS AUTO"
+  },
+  {
+    "Marca": "Cadillac",
+    "Modelo": "XT4",
+    "Version": "2.0 PREMIUM LUXURY AUTO"
+  },
+  {
+    "Marca": "Cadillac",
+    "Modelo": "XT4",
+    "Version": "2.0 SPORT F AUTO"
+  },
+  {
+    "Marca": "Cadillac",
+    "Modelo": "XT5",
+    "Version": "3.6 PLATINUM P AUTO 4WD"
+  },
+  {
+    "Marca": "Cadillac",
+    "Modelo": "XT5",
+    "Version": "3.6 SPORT F AUTO 4WD"
+  },
+  {
+    "Marca": "Cadillac",
+    "Modelo": "XT5",
+    "Version": "3.6 XT5 LUXURY C AUTO"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "Alsvin",
+    "Version": "1.4 MT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "Alsvin",
+    "Version": "1.5 DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS35",
+    "Version": "1.4 DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS35",
+    "Version": "1.4 LUXURY DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS35",
+    "Version": "1.4 PREMIUM DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS35",
+    "Version": "1.6 5 TM"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS35",
+    "Version": "1.6 6 TA AUTO"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS55",
+    "Version": "1.5 LUXURY DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "CS55",
+    "Version": "1.5 PREMIUM DCT"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "Uni-K",
+    "Version": "2.0 PREMIUM"
+  },
+  {
+    "Marca": "Changan",
+    "Modelo": "Uni-K",
+    "Version": "2.0 PREMIUM AUTO AWD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LS B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LS D"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LS K"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT B"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT BLACK EDITION G"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT D AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT E"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT M"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT PLUS C CVT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LT PLUS F CVT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LTZ E"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Aveo",
+    "Version": "1.5 LTZ F AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Beat",
+    "Version": "1.2 ACTIV F"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Beat",
+    "Version": "1.2 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Beat",
+    "Version": "1.2 LT B"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Beat",
+    "Version": "1.2 LT B MT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Beat",
+    "Version": "1.2 LTZ C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Blazer",
+    "Version": "3.6 PIEL B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Blazer",
+    "Version": "3.6 RS BITONO F AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Blazer",
+    "Version": "3.6 RS C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Bolt EUV",
+    "Version": "BEV 65KWH LT A AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Camaro",
+    "Version": "3.6 RS FIRE EDITION H AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Camaro",
+    "Version": "6.2 SS C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Captiva",
+    "Version": "1.5 PREMIER C CVT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.3 LS AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.3 LT AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.3 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.3 RS AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.3 RS C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.5 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.5 LS D AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.5 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cavalier",
+    "Version": "1.5 PREMIER C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cheyenne",
+    "Version": "5.3 CHEYENNE LT CAB REG H AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cheyenne",
+    "Version": "5.3 CHEYENNE RST CREW CAB B 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cheyenne",
+    "Version": "6.2 CHEYENNE HIGH CREW CAB G AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Colorado",
+    "Version": "2.5 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Colorado",
+    "Version": "3.6 LT C AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Colorado",
+    "Version": "3.6 LT Z71 D AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Cruze",
+    "Version": "1.4 LS B TURBO AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Equinox",
+    "Version": "1.5 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Equinox",
+    "Version": "1.5 PREMIER C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Equinox",
+    "Version": "1.5 PREMIER PLUS D AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Groove",
+    "Version": "1.5 LT A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Malibu",
+    "Version": "1.5 TURBO LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Malibu",
+    "Version": "1.5 TURBO LT C AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Montana",
+    "Version": "1.2 TURBO RS B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.0 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.0 LS B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.0 LT C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.0 LT D AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.0 PREMIER REDLINE E AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.2 PREMIER G AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.3 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Version": "1.3 LT C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "S-10",
+    "Version": "2.0 CREW CAB TURBO D 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "S-10",
+    "Version": "2.4 CABINA REGULAR B"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "S-10",
+    "Version": "2.4 CHASIS CABINA A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "S-10",
+    "Version": "2.4 CREW CAB C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "S-10",
+    "Version": "2.4 CREW CAB E"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "2.7 SILVERADO 1500 WT CREW CAB E AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "2.7 SILVERADO 1500 WT CREW CAB F AT 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "4.3 SILVERADO 1500 CAB REG WT B AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "4.3 SILVERADO 1500 CREW CAB WT F AT 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "4.3 SILVERADO 1500 WT CAB REG A AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "4.3 SILVERADO 1500 WT CAB REG B AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "4.3 SILVERADO 1500 WT CREW CAB F AT 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "5.3 SILVERADO 1500 CUSTOM K AUTO 4WD"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Silverado 1500",
+    "Version": "5.3 SILVERADO WT V8 4X2 CC N AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 ACTIV D"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 LT B"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 LT CVT F"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 LT F CVT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 PREMIER C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 PREMIER CVT G"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Spark",
+    "Version": "1.4 PREMIER G CVT"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Suburban",
+    "Version": "5.3 A LS AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Suburban",
+    "Version": "5.3 B LT AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tornado",
+    "Version": "1.8 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tornado",
+    "Version": "1.8 LT C"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tornado",
+    "Version": "1.8 PICK UP B LS"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tornado Van",
+    "Version": "1.5 LS B"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tracker",
+    "Version": "1.2 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Tracker",
+    "Version": "1.2 LS F"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Traverse",
+    "Version": "3.6 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Traverse",
+    "Version": "3.6 LT C 8 PAS AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Traverse",
+    "Version": "3.6 LT C AUTO 8P"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 A LS"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 B LT AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 C PREMIER AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 LS A"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 LT B AUTO"
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Trax",
+    "Version": "1.8 PREMIER C AUTO"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Arrizo 8",
+    "Version": "2.0 PREMIUM DCT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 2 Pro",
+    "Version": "1.0 COMFORT CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 2 Pro",
+    "Version": "1.0 LUXURY CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 4 Pro",
+    "Version": "1.5 COMFORT CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 4 Pro",
+    "Version": "1.5 LUXURY CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 4 Pro",
+    "Version": "1.5 PREMIUM CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 7 Pro",
+    "Version": "1.5 COMFORT CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 7 Pro",
+    "Version": "1.5 LUXURY CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 7 Pro",
+    "Version": "1.5 PREMIUM CVT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 8 Pro",
+    "Version": "1.6 LUXURY DCT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 8 Pro",
+    "Version": "1.6 PREMIUM DCT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 8 Pro Max",
+    "Version": "2.0 LUXURY DCT"
+  },
+  {
+    "Marca": "Chirey",
+    "Modelo": "Tiggo 8 Pro Max",
+    "Version": "2.0 PREMIUM DCT AWD"
+  },
+  {
+    "Marca": "Chrysler",
+    "Modelo": "Pacifica",
+    "Version": "3.6 LIMITED AUTO"
+  },
+  {
+    "Marca": "Chrysler",
+    "Modelo": "Pacifica",
+    "Version": "3.6 LIMITED PLATINUM AUTO"
+  },
+  {
+    "Marca": "Chrysler",
+    "Modelo": "Pacifica",
+    "Version": "3.6 LIMITED PLUS AUTO"
+  },
+  {
+    "Marca": "Citroen",
+    "Modelo": "Picasso",
+    "Version": "1.6 GRAND"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Ateca",
+    "Version": "2.0 TSI DCT 4WD"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Formentor",
+    "Version": "2.0 TSI HIGH 310HP DCT 4WD"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Formentor",
+    "Version": "2.0 TSI MID 190HP DCT"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Leon",
+    "Version": "2.0 190HP DCT"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Leon",
+    "Version": "2.0 245HP DCT"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Leon",
+    "Version": "2.0 300HP DCT"
+  },
+  {
+    "Marca": "Cupra",
+    "Modelo": "Leon",
+    "Version": "2.0 HIGH DCT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SE"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SE AT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SE AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SE CVT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SE MT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SXT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SXT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SXT CVT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.2 SXT MT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.5 GT DCT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Attitude",
+    "Version": "1.5 SPORT DCT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Challenger",
+    "Version": "3.6 DUAL STRIPES AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Challenger",
+    "Version": "3.6 GT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Challenger",
+    "Version": "6.4 SCAT PACK AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Durango",
+    "Version": "3.6 GT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Durango",
+    "Version": "3.6 GT PLUS AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Durango",
+    "Version": "3.6 TOURING AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Durango",
+    "Version": "5.7 RT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Grand Caravan",
+    "Version": "3.6 SXT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Grand Caravan",
+    "Version": "3.6 SXT PLUS"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "1.5 GT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "1.5 GT PLUS AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "1.5 SPORT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "1.5 SXT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "2.4 SE BLACKTOP PARKVIEW"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "2.4 SXT+ 7 SPORT PARKVIEW"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "2.4 SXT+ 7 SPORT PLUS PARKVIEW"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Journey",
+    "Version": "3.6 GT"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Neon",
+    "Version": "1.6 GT AUTO"
+  },
+  {
+    "Marca": "Dodge",
+    "Modelo": "Neon",
+    "Version": "1.6 SPORT AUTO"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.3 DRIVE PLUS"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.3 TREKKING"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.3 TREKKING CVT"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.8 HGT FAO AUTO"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.8 PRECISION"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Argo",
+    "Version": "1.8 TREKKING AUTO"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Fastback",
+    "Version": "1.3 AUDACE"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Fastback",
+    "Version": "1.3 IMPETUS"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Mobi",
+    "Version": "1.0 LIKE"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Mobi",
+    "Version": "1.0 LIKE BLACKTOP"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Mobi",
+    "Version": "1.0 TREKKING"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Mobi",
+    "Version": "1.0 WAY"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Palio",
+    "Version": "1.6 ADVENTURE"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Palio",
+    "Version": "1.6 ADVENTURE AUTO"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Palio",
+    "Version": "1.6 ADVENTURE MT"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Pulse",
+    "Version": "1.3 AUDACE CVT"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Pulse",
+    "Version": "1.3 DRIVE"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Pulse",
+    "Version": "1.3 IMPETUS CVT"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Uno",
+    "Version": "1.4 LIKE"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Uno",
+    "Version": "1.4 SPORTING"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Uno",
+    "Version": "1.4 SPORTING PANTALLA"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Uno",
+    "Version": "1.4 WAY"
+  },
+  {
+    "Marca": "Fiat",
+    "Modelo": "Uno",
+    "Version": "1.4 WAY PANTALLA"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Bronco Sport",
+    "Version": "1.5 BIG BEND AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Bronco Sport",
+    "Version": "1.5 HERITAGE AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Bronco Sport",
+    "Version": "1.5 OUTER BANKS AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Bronco Sport",
+    "Version": "2.0 BADLANDS AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Bronco Sport",
+    "Version": "2.0 FIRST EDITION AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "EcoSport",
+    "Version": "1.5 TREND"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "EcoSport",
+    "Version": "1.5 TREND STORM"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "EcoSport",
+    "Version": "2.0 TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "EcoSport",
+    "Version": "2.0 TREND AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Edge",
+    "Version": "2.0 SEL PLUS AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Edge",
+    "Version": "2.0 SEL PLUS AUTO SIN QUEMACOCOS"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Edge",
+    "Version": "2.0 TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Edge",
+    "Version": "2.7 V6 ST AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Edge",
+    "Version": "2.7 V6 ST AUTO AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.0 ECOBOOST TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.0 ECOBOOST TREND AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV ACTIVE CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV SE CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV SE SPORT CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV SEL LIMITED CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV ST-LINE CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV ST-LINE ELITE CVT AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV ST-LINE SELECT CVT AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 HEV TITANIUM CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 S PLUS AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Escape",
+    "Version": "2.5 TREND AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Expedition",
+    "Version": "3.5 PLATINUM AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "2.3 LIMITED AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "2.3 XLT AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "2.3 XLT AUTO ES"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "3.0 ST AUTO AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "3.0 ST AUTO AWD ES"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "3.5 LIMITED AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "3.5 SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Explorer",
+    "Version": "3.5 XLT AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "F-150",
+    "Version": "3.3 V6 XL CREW CAB AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "F-150",
+    "Version": "3.3 V6 XL REG CAB AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "F-150",
+    "Version": "3.5 HEV POWERBOOST XL CREW CAB AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "F-150",
+    "Version": "5.0 V8 XL CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fiesta",
+    "Version": "1.6 S DCT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fiesta",
+    "Version": "1.6 SE"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fiesta",
+    "Version": "1.6 SE DCT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Figo",
+    "Version": "1.5 ENERGY"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Figo",
+    "Version": "1.5 ENERGY 5PTAS"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Figo",
+    "Version": "1.5 IMPULSE"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Figo",
+    "Version": "1.5 IMPULSE AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Figo",
+    "Version": "1.5 TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fusion",
+    "Version": "2.0 HEV SE LUXURY CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fusion",
+    "Version": "2.0 SEL AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Fusion",
+    "Version": "2.0 TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 HEV LOBO POWERBOOST LIMITED CC 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 LOBO ECOBOOST PLATINUM CC AT 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 LOBO ECOBOOST PLATINUM CREW CAB 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 LOBO ECOBOOST TREMOR CREW CAB 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 LOBO ECOBOOST TREMOR CREW CAB AT 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "3.5 LOBO LARIAT CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Lobo",
+    "Version": "5.0 LOBO XLT CREW CAB AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Maverick",
+    "Version": "2.0 ECOBOOST LARIAT AUTO AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Maverick",
+    "Version": "2.0 ECOBOOST XLT AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Maverick",
+    "Version": "2.5 HEV LARIAT CVT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Version": "2.3 ECOBOOST AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Version": "5.0 V8 GT"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Version": "5.0 V8 GT AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Version": "5.0 V8 GT PREMIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Version": "5.0 V8 MACH 1"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang Mach-E",
+    "Version": "BEV 99KWH GT PERFORMANCE AUTO AWD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.3 WILDTRAK AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.3 XLS AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.3 XLT CREW CAB AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.5 XL CREW CAB"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.5 XLT CREW CAB"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.5 XLT CREW CAB 4WD HR"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "2.5 XLT CREW CAB PLUS"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "3.2 DIESEL XLT CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Ranger",
+    "Version": "3.2 DIESEL XLT CREW CAB AUTO 4WD PIEL"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Territory",
+    "Version": "1.8 ECOBOOST AMBIENTE AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Territory",
+    "Version": "1.8 ECOBOOST TITANIUM AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Territory",
+    "Version": "1.8 ECOBOOST TREND AUTO"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Transit",
+    "Version": "1.0"
+  },
+  {
+    "Marca": "GAC",
+    "Modelo": "Emkoo",
+    "Version": "1.5T GL DCT"
+  },
+  {
+    "Marca": "GAC",
+    "Modelo": "Emzoom",
+    "Version": "1.5 GL RACER AUTO"
+  },
+  {
+    "Marca": "GAC",
+    "Modelo": "GN8",
+    "Version": "2.0 PHEV DHT"
+  },
+  {
+    "Marca": "GAC",
+    "Modelo": "GS8",
+    "Version": "2.0T GT AUTO"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Coolray",
+    "Version": "1.5 GF DCT"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Coolray",
+    "Version": "1.5 GF PACK DCT"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Coolray",
+    "Version": "1.5 GL DCT"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Emgrand",
+    "Version": "1.5 GF AUTO"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Emgrand",
+    "Version": "1.5 GL AUTO"
+  },
+  {
+    "Marca": "Geely",
+    "Modelo": "Starray",
+    "Version": "1.5 GL DCT"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Acadia",
+    "Version": "3.6 AT4 A AUTO 4WD"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Acadia",
+    "Version": "3.6 BLACK EDITION AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Acadia",
+    "Version": "3.6 BLACK EDITION D AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Acadia",
+    "Version": "3.6 DENALI E AUTO 4WD"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Sierra",
+    "Version": "5.3 SLE F REG CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Sierra",
+    "Version": "6.2 DENALI E AUTO 4WD"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Terrain",
+    "Version": "1.5 AT4 C AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Terrain",
+    "Version": "1.5 DENALI D AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Terrain",
+    "Version": "1.5 SLE BLACK EDITION E AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Terrain",
+    "Version": "2.0 DENALI D AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Terrain",
+    "Version": "2.0 SLT B AUTO"
+  },
+  {
+    "Marca": "Gmc",
+    "Modelo": "Yukon",
+    "Version": "6.2 D DENALI AUTO 4WD"
+  },
+  {
+    "Marca": "Great Wall",
+    "Modelo": "Haval H6",
+    "Version": "1.5 HEV LUXURY AUTO"
+  },
+  {
+    "Marca": "Great Wall",
+    "Modelo": "Haval Jolion",
+    "Version": "1.5 HEV LUXURY AUTO"
+  },
+  {
+    "Marca": "Great Wall",
+    "Modelo": "Haval Jolion",
+    "Version": "1.5 LUXURY DCT"
+  },
+  {
+    "Marca": "Great Wall",
+    "Modelo": "Haval Jolion",
+    "Version": "1.5 PREMIUM DCT"
+  },
+  {
+    "Marca": "Great Wall",
+    "Modelo": "Tank 300",
+    "Version": "2.0 HEV LUXURY LAUNCHING EDITION AT 4WD"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Accord",
+    "Version": "1.5 SPORT PLUS CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Accord",
+    "Version": "2.0 HEV TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Accord",
+    "Version": "2.0 TOURING AUTO"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "BR-V",
+    "Version": "1.5 PRIME CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "BR-V",
+    "Version": "1.5 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "BR-V",
+    "Version": "1.5 UNIQ CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Version": "1.5 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Version": "1.5 TURBO CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Version": "1.5 TURBO PLUS CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Version": "2.0 HEV TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CR-V",
+    "Version": "2.4 EX CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 EX CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 LX"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 LX CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 PRIME CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 SPORT CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "City",
+    "Version": "1.5 UNIQ"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "1.5 SPORT PLUS CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "1.5 SPORT PLUS SPECIAL EDITION CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "1.5 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "1.5 TURBO PLUS CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "2.0 EX"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Version": "2.0 I-STYLE CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Fit",
+    "Version": "1.5 FUN"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Fit",
+    "Version": "1.5 FUN CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Fit",
+    "Version": "1.5 HIT CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "1.8 1 MILLION EDITION CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "1.8 PRIME CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "1.8 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "1.8 UNIQ"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "1.8 UNIQ CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "2.0 SPORT CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "2.0 TOURING CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "HR-V",
+    "Version": "2.0 UNIQ CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Odyssey",
+    "Version": "3.5 PRIME AUTO"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Odyssey",
+    "Version": "3.5 TOURING AUTO"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Pilot",
+    "Version": "3.5 PRIME AUTO"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Pilot",
+    "Version": "3.5 TOURING AUTO"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "insight",
+    "Version": "1.5 HEV CVT"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "insight",
+    "Version": "1.5 HYBRID CVT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Accent",
+    "Version": "1.6 GL"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Accent",
+    "Version": "1.6 GL AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Accent",
+    "Version": "1.6 GL MID"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Accent",
+    "Version": "1.6 GL MID AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Accent",
+    "Version": "1.6 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.4 LIMITED TURBO DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.5 GL"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.5 GLS IVT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.5 GLS PREMIUM IVT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.6 GLS"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.6 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.6 GLS PREMIUM AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta",
+    "Version": "1.6 LIMITED AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta Grand",
+    "Version": "2.0 GLS PREMIUM AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Creta Grand",
+    "Version": "2.0 LIMITED AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "1.6 HEV GLS PREMIUM DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "2.0 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "2.0 GLS PREMIUM AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "2.0 GLS PREMIUM IVT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "2.0 LIMITED TECH IVT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Version": "2.0 LIMITED TECH NAVI AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 GL"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 GL MID"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 GL MID AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 GLS"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Grand i10",
+    "Version": "1.2 NS"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "HB20",
+    "Version": "1.6 GL"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "HB20",
+    "Version": "1.6 GL AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "HB20",
+    "Version": "1.6 GL MID"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "HB20",
+    "Version": "1.6 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Ioniq",
+    "Version": "1.6 HEV GLS PREMIUM DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Ioniq",
+    "Version": "1.6 HYBRID GLS PREMIUM DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Ioniq",
+    "Version": "1.6 HYBRID LIMITED"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Ioniq",
+    "Version": "1.6 HYBRID LIMITED DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "2.0 GLS"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "2.0 LIMITED TECH AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "2.5 GLS PREMIUM DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "2.5 LIMITED TECH DCT"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "3.3 GLS PREMIUM"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Santa Fe",
+    "Version": "3.3 LIMITED TECH"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "1.6 HEV LIMITED AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.0 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.0 GLS PREMIUM AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.4 LIMITED AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.4 LIMITED TECH AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.5 GLS AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.5 GLS PREMIUM AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.5 LIMITED AUTO"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modelo": "Tucson",
+    "Version": "2.5 LIMITED TECH AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "Q50",
+    "Version": "3.0 LUXE AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "Q50",
+    "Version": "3.0 SPORT PLUS AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX30",
+    "Version": "2.0 SPORT PLUS DCT"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 AUTOGRAPH AUTO 4WD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 ESSENTIAL AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 LUXE AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 SENSORY AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 SENSORY X-TRONIC AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX50",
+    "Version": "2.0 SPORT X-TRONIC"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX55",
+    "Version": "2.0 ESSENTIAL CVT AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX55",
+    "Version": "2.0 SENSORY CVT AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX60",
+    "Version": "2.5 HYBRID AUTO 4WD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX60",
+    "Version": "2.5 HYBRID X-TRONIC AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX60",
+    "Version": "3.5 SENSORY AUTO 4WD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX60",
+    "Version": "3.5 SENSORY AUTO AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX60",
+    "Version": "3.5 SENSORY X-TRONIC AWD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX70",
+    "Version": "3.7 SPORT 4WD AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX80",
+    "Version": "5.6 8 PASAJEROS AUTO 4WD"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX80",
+    "Version": "5.6 SENSORY 7 PASAJEROS 4WD AUTO"
+  },
+  {
+    "Marca": "Infiniti",
+    "Modelo": "QX80",
+    "Version": "5.6 SENSORY 8 PASAJEROS 4WD AUTO"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "Frison T6",
+    "Version": "2.0 FRISON"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "Frison T8",
+    "Version": "2.0 DIESEL FRISON 4WD"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "Frison T8",
+    "Version": "2.0 FRISON"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "Frison T9",
+    "Version": "2.0 AUTO 4WD"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "J7",
+    "Version": "1.5 ADVANCED MT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "J7",
+    "Version": "1.5 LIMITED CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "J7",
+    "Version": "1.5 QUANTUM CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 ACTIVE"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 CONNECT CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 LIMITED"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 QUANTUM CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 SMART"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI2",
+    "Version": "1.5 SMART CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3",
+    "Version": "1.6 ACTIVE CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3",
+    "Version": "1.6 LIMITED"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3",
+    "Version": "1.6 LIMITED CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3",
+    "Version": "1.6 QUANTUM"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3",
+    "Version": "1.6 QUANTUM CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3 PRO",
+    "Version": "1.6 ACTIVE CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI3 PRO",
+    "Version": "1.6 CONNECT CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4",
+    "Version": "1.5 ACTIVE CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4",
+    "Version": "1.5 BLACK SERIES CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4",
+    "Version": "1.5 CONNECT CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4 PRO",
+    "Version": "1.5 ACTIVE CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4 PRO",
+    "Version": "1.5 CONNECT CVT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI4 PRO",
+    "Version": "1.6 COMFORT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI6 PRO",
+    "Version": "1.5 LIMITED DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI6 PRO",
+    "Version": "1.5 QUANTUM DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI6 PRO",
+    "Version": "1.5 VANGUARD DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI7",
+    "Version": "2.0T LIMITED DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI7",
+    "Version": "2.0T QUANTUM DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI7",
+    "Version": "2.0T SMART DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI7 PRO",
+    "Version": "1.5 TGDI LIMITED DCT"
+  },
+  {
+    "Marca": "Jac",
+    "Modelo": "SEI7 PRO",
+    "Version": "1.5 TGDI QUANTUM DCT"
+  },
+  {
+    "Marca": "Jaecoo",
+    "Modelo": "Jaecoo 7",
+    "Version": "1.6T ELEMENTAL"
+  },
+  {
+    "Marca": "Jaecoo",
+    "Modelo": "Jaecoo 7",
+    "Version": "1.6T INSPIRE"
+  },
+  {
+    "Marca": "Jaecoo",
+    "Modelo": "Jaecoo 7",
+    "Version": "1.6T REFINE"
+  },
+  {
+    "Marca": "Jaguar",
+    "Modelo": "E-Pace",
+    "Version": "2.0 P250 S AUTO 4WD"
+  },
+  {
+    "Marca": "Jaguar",
+    "Modelo": "XE",
+    "Version": "2.0 PRESTIGE 300 AUTO 4WD"
+  },
+  {
+    "Marca": "Jaguar",
+    "Modelo": "XE",
+    "Version": "2.0 SPORT 300 AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Cherokee",
+    "Version": "3.2 LIMITED AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Cherokee",
+    "Version": "3.2 OVERLAND AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Cherokee",
+    "Version": "3.2 TRAILHAWK AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "1.3 ALTITUDE AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "1.3 LIMITED PREMIUM AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.0 HIGH ALTITUDE 4WD AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.4 HIGH ALTITUDE AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.4 LATITUDE AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.4 LIMITED AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.4 LIMITED PREMIUM AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Compass",
+    "Version": "2.4 TRAILHAWK AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "3.6 LAREDO AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "3.6 LIMITED LUJO V6 AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "3.6 LIMITED X V6 AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "5.7 LIMITED LUJO ADVANCE V8 AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "5.7 LIMITED LUJO V8 AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "5.7 TRAILHAWK AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Grand Cherokee",
+    "Version": "6.4 SRT8 AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.3 LATITUDE AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.3 LIMITED AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.8 LATITUDE AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.8 LIMITED AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.8 LIMITED BRONZE EDITION AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.8 LIMITED POLAR BRONZE EDITION AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Renegade",
+    "Version": "1.8 SPORT AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "2.0 MHEV SPORT S AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "2.0 MHEV UNLIMITED SAHARA AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "2.0 MHEV UNLIMITED SAHARA SKY FREEDOM AT"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 MHEV UNLIMITED RUBICON AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 MHEV UNLIMITED RUBICON SUNRIDER AUTO"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 MHEV UNLIMITED SAHARA AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 RUBICON AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 RUBICON DELUXE PACK AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 UNLIMITED RUBICON AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 UNLIMITED SAHARA AUTO 4WD"
+  },
+  {
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Version": "3.6 UNLIMITED SPORT S AUTO 4WD"
+  },
+  {
+    "Marca": "Jetour",
+    "Modelo": "Dashing",
+    "Version": "1.6T DCT"
+  },
+  {
+    "Marca": "Jetour",
+    "Modelo": "X70",
+    "Version": "1.5 AUTO"
+  },
+  {
+    "Marca": "Jetour",
+    "Modelo": "X70 Plus",
+    "Version": "1.6 DCT"
+  },
+  {
+    "Marca": "Jmc",
+    "Modelo": "Grand Avenue",
+    "Version": "2.3 LX"
+  },
+  {
+    "Marca": "Jmc",
+    "Modelo": "Grand Avenue",
+    "Version": "2.3 LX AUTO"
+  },
+  {
+    "Marca": "Jmc",
+    "Modelo": "Vigus",
+    "Version": "1.8 GL"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "1.6 GT AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "1.6 GT DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 EX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 EX IVT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 EX PREMIUM AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 GT LINE"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 GT LINE AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 GT LINE IVT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 L"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 L AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 L IVT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 LX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "FORTE",
+    "Version": "2.0 LX IVT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K3",
+    "Version": "1.6 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K3",
+    "Version": "1.6 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K3",
+    "Version": "1.6 LX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K3",
+    "Version": "1.6 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K3",
+    "Version": "2.0 GT LINE AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "K4",
+    "Version": "2.0 LX IVT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Niro",
+    "Version": "1.6 EX DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Niro",
+    "Version": "1.6 LX DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Niro",
+    "Version": "HEV 1.6 EX DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Optima",
+    "Version": "2.0 TURBO SXL AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Optima",
+    "Version": "2.4 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 EX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 L"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 L AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 LX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 S PACK"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Rio",
+    "Version": "1.6 S PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sedona",
+    "Version": "3.3 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sedona",
+    "Version": "3.3 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sedona",
+    "Version": "3.3 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.4 GT LINE DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.4 SXL DCT"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.5 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.5 SX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.6 EX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.6 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.6 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.6 LX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Seltos",
+    "Version": "1.6 SX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.4 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.4 EX PACK 2.4 AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.4 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.5 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.5 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.5 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.5 SX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "2.5 SXL AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "3.3 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "3.3 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "3.3 SX 3.3 AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sorento",
+    "Version": "3.3 SXL AUTO 4WD"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "1.6 LX"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "1.6 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "2.0 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "2.0 EX IVT AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "2.0 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Soul",
+    "Version": "2.0 EX PACK IVT AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.0 EX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.0 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.0 LX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.4 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.4 SX AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.4 SXL 4WD AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.4 SXL AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.5 EX PACK AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Version": "2.5 SXL AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Stinger",
+    "Version": "2.0 GT-LINE AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Stinger",
+    "Version": "2.5 GT LINE AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Stinger",
+    "Version": "3.3 GT AUTO"
+  },
+  {
+    "Marca": "Kia",
+    "Modelo": "Telluride",
+    "Version": "3.8 SX AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Discovery Sport",
+    "Version": "2.0 HSE AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Discovery Sport",
+    "Version": "2.0 MHEV P200 R-DYNAMIC SE AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Discovery Sport",
+    "Version": "2.0 MHEV P250 R-DYNAMIC HSE AUTO AWD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Discovery Sport",
+    "Version": "2.0 P290 HSE AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Range Rover Evoque",
+    "Version": "1.5 PHEV P300 R-DYNAMIC S AUTO AWD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Range Rover Evoque",
+    "Version": "2.0 MHEV P200 SE AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Range Rover Sport",
+    "Version": "3.0 MHEV P360 HSE AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Range Rover Sport",
+    "Version": "3.0 P340 HSE DYNAMIC AUTO 4WD"
+  },
+  {
+    "Marca": "Land Rover",
+    "Modelo": "Range Rover Velar",
+    "Version": "2.0 P300 R-DYNAMIC S AUTO 4WD"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "ES",
+    "Version": "2.5 250 AWD AUTO"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "ES",
+    "Version": "2.5 HEV 300H CVT"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "ES",
+    "Version": "3.5 350 AUTO"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "IS",
+    "Version": "2.0 300 PREMIUM AUTO"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "NX",
+    "Version": "2.5 250 AUTO AWD"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "NX",
+    "Version": "2.5 HEV 350H LUXURY AUTO AWD"
+  },
+  {
+    "Marca": "Lexus",
+    "Modelo": "UX",
+    "Version": "2.0 HEV 250H"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Aviator",
+    "Version": "3.0 PHEV GRAND TOURING AUTO AWD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Aviator",
+    "Version": "3.0 RESERVE AUTO 4WD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Aviator",
+    "Version": "3.0 RESERVE AUTO AWD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Corsair",
+    "Version": "2.0 AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Corsair",
+    "Version": "2.0 RESERVE AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Corsair",
+    "Version": "2.0 RESERVE MONOCROMATICA AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Corsair",
+    "Version": "2.3 RESERVE AUTO 4WD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Corsair",
+    "Version": "2.5 PHEV GRAND TOURING CVT AWD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "MKC",
+    "Version": "2.0 SELECT AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "MKC",
+    "Version": "2.3 RESERVE AUTO 4WD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "MKZ",
+    "Version": "2.0 SELECT AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "MKZ",
+    "Version": "2.0 SELECT HYBRID CVT"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Nautilus",
+    "Version": "2.0 RESERVE AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Nautilus",
+    "Version": "2.0 SELECT AUTO"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Nautilus",
+    "Version": "2.7 RESERVE AUTO 4WD"
+  },
+  {
+    "Marca": "Lincoln",
+    "Modelo": "Nautilus",
+    "Version": "2.7 RESERVE AUTO AWD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-3",
+    "Version": "2.0 100 ANIVERSARIO 2WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-3",
+    "Version": "2.0 I 2WD AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-3",
+    "Version": "2.0 I GRAND TOURING 2WD AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-3",
+    "Version": "2.0 I SPORT 2WD AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-30",
+    "Version": "2.0 MHEV I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-30",
+    "Version": "2.5 I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-30",
+    "Version": "2.5 I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-30",
+    "Version": "2.5 SIGNATURE AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-30",
+    "Version": "2.5 TURBO S GRAND TOURING AUTO 4WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.0 I AUTO 2WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 I GRAND TOURING AUTO 2WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 I SPORT AUTO 2WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 S GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 S GRAND TOURING AUTO 2WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 SIGNATURE AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Version": "2.5 SIGNATURE AUTO 2WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-50",
+    "Version": "2.5 TURBO SIGNATURE AUTO 4WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-9",
+    "Version": "2.5 I SPORT AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-9",
+    "Version": "2.5 SIGNATURE 4WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-9",
+    "Version": "2.5 TURBO I GRAND TOURING 4WD AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "CX-9",
+    "Version": "2.5 TURBO I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "MX-5",
+    "Version": "2.0 I GRAND TOURING AT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "MX-5",
+    "Version": "2.0 I GRAND TOURING POLYMETAL AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "MX-5",
+    "Version": "2.0 I SPORT MT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I GRAND TOURING SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SEDAN"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SPORT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SPORT SEDAN"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I SPORT SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I TOURING"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I TOURING SEDAN"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 I TOURING SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 MHEV CARBON EDITION AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 2",
+    "Version": "1.5 MHEV I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.0 MHEV I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 CARBON EDITION 4WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 HATCHBACK S TA"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I GRAND TOURING HATCHBACK AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I GRAND TOURING SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SEDAN"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SPORT"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SPORT HATCHBACK AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SPORT SEDAN"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 I SPORT SEDAN AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 SIGNATURE 4WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 TURBO S GRAND TOURING POLYMETAL 4WD"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 TURBO SIGNATURE 4WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 3",
+    "Version": "2.5 TURBO SIGNATURE POLYMETAL 4WD AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 6",
+    "Version": "2.5 CARBON EDITION AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 6",
+    "Version": "2.5 I GRAND TOURING AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 6",
+    "Version": "2.5 I GRAND TOURING PLUS AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 6",
+    "Version": "2.5 I SPORT AUTO"
+  },
+  {
+    "Marca": "Mazda",
+    "Modelo": "Mazda 6",
+    "Version": "2.5 SIGNATURE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase A",
+    "Version": "1.3 A 200 PROGRESSIVE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase A",
+    "Version": "1.3 A 200 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase A",
+    "Version": "1.3 A 200 STYLE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase A",
+    "Version": "2.0 MERCEDES-AMG A 35 DCT 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase A",
+    "Version": "2.0 MERCEDES-AMG A 45S EDT55 DCT 4MATIC+"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "1.5 C 200 AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "1.5 MHEV C 200 AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "1.5 MHEV C 200 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "1.5 MHEV C 200 SPORT AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "1.6 C 180 AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "2.0 C 200 AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "2.0 C 200 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "2.0 C 200 SPORT AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "2.0 C 300 AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "2.0 C 300 SPORT AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase C",
+    "Version": "3.0 MERCEDES-AMG C 43 AUTO 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "1.3 CLA 200 PROGRESSIVE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "1.3 CLA 200 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "1.3 MHEV CLA 200 LINE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "1.6 CLA 200 DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "1.6 CLA 200 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "2.0 CLA 250 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "2.0 CLA 250 SPORT EDITION 1 DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "2.0 MERCEDES-AMG 35 DCT 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLA",
+    "Version": "2.0 MERCEDES-AMG CLA 45 DCT 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase CLS",
+    "Version": "3.0 CLS 450 4MATIC AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase E",
+    "Version": "2.0 E 200 AVANTGARDE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase E",
+    "Version": "2.0 E 200 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase E",
+    "Version": "2.0 E 250 AVANTGARDE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase E",
+    "Version": "3.0 E 450 EXCLUSIVE AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase E",
+    "Version": "3.0 MERCEDES-AMG E 43 AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase EQA",
+    "Version": "BEV 300 4MATIC AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase EQB",
+    "Version": "BEV 67KWH EQB 300 AUTO 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase EQC",
+    "Version": "BEV 80KWH 400 SPORT AUTO 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLA",
+    "Version": "1.3 200 PROGRESSIVE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLA",
+    "Version": "1.3 200 PROGRESSIVE LINE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLA",
+    "Version": "1.6 GLA 200 DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLA",
+    "Version": "1.6 GLA 200 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLA",
+    "Version": "2.0 GLA 250 SPORT DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLB",
+    "Version": "1.3 200 PROGRESSIVE LINE DCT"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLB",
+    "Version": "2.0 250 PROGRESSIVE DCT 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLB",
+    "Version": "2.0 GLB 250 PROGRESSIVE 4MATIC DCT 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 4MATIC AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 COMFORT AUTO 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 COUPE 4MATIC AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 COUPE AVANTGARDE AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 COUPE SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 OFF-ROAD AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 GLC 300 SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "2.0 MHEV GLC 300 AUTO 4MATIC"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC",
+    "Version": "3.0 MERCEDES-AMG GLC 43 AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC Coupe",
+    "Version": "2.0 GLC 300 COUPE 4MATIC AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC Coupe",
+    "Version": "2.0 GLC 300 COUPE AVANTGARDE AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC Coupe",
+    "Version": "2.0 GLC 300 COUPE SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLC Coupe",
+    "Version": "2.0 GLC 350 E COUPE AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLE",
+    "Version": "3.0 GLE 400 SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLE",
+    "Version": "3.5 GLE 350 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLE Coupe",
+    "Version": "3.0 MERCEDES-AMG GLE 43 COUPE AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "Clase GLS",
+    "Version": "4.7 GLS 500 AUTO 4WD"
+  },
+  {
+    "Marca": "Mercedes Benz",
+    "Modelo": "EQE",
+    "Version": "BEV 96KWH EQE 350+ AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "EHS",
+    "Version": "1.5 PHEV TROPHY AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "GT",
+    "Version": "1.5 ALPHA DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "GT",
+    "Version": "1.5 EXCITE DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "GT",
+    "Version": "1.5 STYLE DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Hs",
+    "Version": "1.5 EXCITE DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Hs",
+    "Version": "1.5 TROPHY PACK DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Hs",
+    "Version": "2.0 TROPHY DCT AWD"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 COOL"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 EXCITE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 HEV ELEGANCE AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 HEV EXCITE AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 STYLE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG3",
+    "Version": "1.5 STYLE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG5",
+    "Version": "1.5 ELEGANCE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG5",
+    "Version": "1.5 ELEGANCE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG5",
+    "Version": "1.5 EXCITE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG5",
+    "Version": "1.5 EXCITE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "MG5",
+    "Version": "1.5 STYLE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Mg 7",
+    "Version": "2.0 TROPHY AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "One",
+    "Version": "1.5 EXCITE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "One",
+    "Version": "1.5 STYLE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "RX5",
+    "Version": "1.5 ELEGANCE DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "RX5",
+    "Version": "1.5 EXCITE DCT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "RX8",
+    "Version": "2.0 ELEGANCE AUTO 4WD"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 ELEGANCE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 ELEGANCE RED PACK CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 EXCITE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 EXCITE AUTO"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 EXCITE CVT"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 STYLE"
+  },
+  {
+    "Marca": "Mg",
+    "Modelo": "Zs",
+    "Version": "1.5 STYLE AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Clubman",
+    "Version": "1.5 COOPER CLUBMAN CHILI AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Clubman",
+    "Version": "2.0 COOPER S CLUBMAN HOT CHILI AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Clubman",
+    "Version": "2.0 COOPER S CLUBMAN HOT CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Clubman",
+    "Version": "2.0 JOHN COOPER WORKS HOT CHILI AUTO 4WD"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CHILI"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CHILI CONNECTED EDITION DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CLASSIC"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CLASSIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CONVERTIBLE ICONIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER CONVERTIBLE PEPPER DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER ESSENTIAL"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER PEPPER"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER PEPPER DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER RESOLUTE DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER SALT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER SALT AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "1.5 COOPER SALT DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "BEV 33KWH COOPER SE CLASSIC AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper",
+    "Version": "BEV 33KWH COOPER SE ICONIC AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper Clubman",
+    "Version": "1.5 COOPER CLUBMAN CLASSIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper Clubman",
+    "Version": "2.0 COOPER S CLUBMAN ICONIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CHILI"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CLASSIC"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CLASSIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CONVERTIBLE HOT CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S CONVERTIBLE ICONIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S ESSENTIAL DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S HOT CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S RESOLUTE DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S SALT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 COOPER S SALT DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Cooper S",
+    "Version": "2.0 S DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "1.5 COOPER CHILI AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "1.5 COOPER CLASSIC AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "1.5 COOPER PHEV ALL4 AUTO 4WD"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "1.5 COOPER SE PHEV ALL4 AUTO 4WD"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "1.5 COOPER UNTAMED AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "2.0 COOPER S CHILI AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "2.0 COOPER S HOT CHILI DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "2.0 COOPER S ICONIC DCT"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "2.0 COOPER S SPORT AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "Countryman",
+    "Version": "2.0 JOHN COOPER WORKS 4WD AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 CLUBMAN ICONIC 4WD AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 CLUBMAN ICONIC AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 COOPER ICONIC AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 COUNTRYMAN ICONIC 4WD AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 JOHN COOPER WORKS ALL4 AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 JOHN COOPER WORKS HOT CHILI AUTO"
+  },
+  {
+    "Marca": "Mini",
+    "Modelo": "John Cooper Works",
+    "Version": "2.0 JOHN COOPER WORKS ICONIC"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Eclipse Cross",
+    "Version": "1.5 GLS CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Eclipse Cross",
+    "Version": "1.5 LIMITED S-AWC CVT 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.4 GLS DIESEL AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.4 GLS GASOLINA"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.4 GLX DIESEL 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.4 GLX GASOLINA"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.4 LIMITED DIESEL AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "L200",
+    "Version": "2.5 GLS DIESEL 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Mirage",
+    "Version": "1.2 GLS"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Mirage",
+    "Version": "1.2 GLS CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Mirage",
+    "Version": "1.2 GLX"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Mirage",
+    "Version": "1.2 GLX CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Montero",
+    "Version": "3.0 ES AUTO"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Montero",
+    "Version": "3.0 SE AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Montero",
+    "Version": "3.0 SE PLUS AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Outlander",
+    "Version": "2.0 PHEV LIMITED AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Outlander",
+    "Version": "2.4 LIMITED CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Outlander",
+    "Version": "2.4 PHEV LIMITED AUTO 4WD"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Outlander",
+    "Version": "2.4 SE CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Outlander",
+    "Version": "2.4 SE PLUS CVT"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Xpander",
+    "Version": "1.5 CROSS AUTO"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Xpander",
+    "Version": "1.5 GLS AUTO"
+  },
+  {
+    "Marca": "Mitsubishi",
+    "Modelo": "Xpander",
+    "Version": "1.5 LIMITED AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.0 EXCLUSIVE TURBO AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.0 EXCLUSIVE TURBO CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.0 SR TURBO CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.5 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.5 ADVANCE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.5 SENSE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Version": "2.5 SR AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Armada",
+    "Version": "5.6 EXCLUSIVE AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "2.5 LE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "2.5 LE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "2.5 PLATINUM LE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "2.5 PRO-4X AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "2.5 SE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Frontier",
+    "Version": "4.0 PRO 4X CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.2 HEV ADVANCE E-POWER"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.2 HEV EXCLUSIVE E-POWER"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.2 HEV PLATINUM E-POWER"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 ADVANCE LTS"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 ADVANCE LTS CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 ADVANCE LTS PAQ SEG CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 ADVANCE LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 EXCLUSIVE BI-TONO LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 EXCLUSIVE LTS CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 EXCLUSIVE LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 PLATINUM BI-TONO LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 PLATINUM LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks",
+    "Version": "1.6 SENSE LTS"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.2 HEV ADVANCE E-POWER"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.2 HEV E-POWER PLATINUM AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.2 HEV PLATINUM E-POWER"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.6 ADVANCE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.6 ADVANCE LTS"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Kicks Play",
+    "Version": "1.6 ADVANCE LTS XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Leaf",
+    "Version": "BEV 40KWH SL BI-TONE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 ACTIVE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 ACTIVE ABS"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 ADVANCE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 EXCLUSIVE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 EXCLUSIVE BI-TONO AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 MARCH SR NAVI"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 SENSE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "March",
+    "Version": "1.6 SENSE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Maxima",
+    "Version": "3.5 ADVANCE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Maxima",
+    "Version": "3.5 EXCLUSIVE X-TRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Murano",
+    "Version": "3.5 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Murano",
+    "Version": "3.5 EXCLUSIVE AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 ATTACK DIESEL AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 CHASIS CABINA DH AC PAQ. SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA DIESEL AC PAQ 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA DIESEL AC PAQ S MT 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA S AC PAQ. SEG."
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA S TM AC PAQ. SEG."
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA SE AC PAQ SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 DOBLE CABINA SE TM AC PAQ SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 ESTACAS TM DH AC PAQ. SEG. 6VEL"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 LE AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 LE MIDNIGHT EDITION AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 LE TM AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 NP300 CHASIS CABINA"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 NP300 CHASIS CABINA AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 NP300 PICK UP"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 PICK UP DH AC PAQ. SEG."
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 PICK UP TM DH AC PAQ. SEG. 6VEL"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 PLATINUM LE AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NP300",
+    "Version": "2.5 PLATINUM LE TM AC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 12 PASAJEROS A/A PAQ SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 12 PASAJEROS A/A PAQ SEG/TPMS"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 15 PASAJEROS AMPLIA A/A PAQ SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 PANEL AMPLIA A/A PAQ SEG"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 PANEL AMPLIA AA"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "NV350 Urvan",
+    "Version": "2.5 PANEL VENTANAS AMPLIA"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Note",
+    "Version": "1.6 SR AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Pathfinder",
+    "Version": "3.5 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Pathfinder",
+    "Version": "3.5 ADVANCE XTRONIC"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Pathfinder",
+    "Version": "3.5 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Pathfinder",
+    "Version": "3.5 EXCLUSIVE AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.6 NISMO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.8 ADVANCE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.8 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.8 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.8 SENSE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "1.8 SENSE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 ADVANCE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 ADVANCE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 EXCLUSIVE BITONO AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 EXCLUSIVE BITONO CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 EXCLUSIVE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SENSE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SENSE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SENSE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR BITONO AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR BITONO CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR PLATINUM BITONO CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Version": "2.0 SR PLATINUM CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "V-Drive",
+    "Version": "1.6 V-DRIVE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "V-Drive",
+    "Version": "1.6 V-DRIVE A/C"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "V-Drive",
+    "Version": "1.6 V-DRIVE A/C AUDIO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 ADVANCE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 ADVANCE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 ADVANCE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 DRIVE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 DRIVE A/C"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 EXCLUSIVE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 EXCLUSIVE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 PLATINUM CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 SENSE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 SENSE AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 SENSE CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Version": "1.6 SR CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "1.5 HEV E-POWER EXCLUSIVE"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "1.5 HEV E-POWER PLATINUM"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.0 HYBRID CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 ADVANCE 2 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 ADVANCE 2 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 ADVANCE 3 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 ADVANCE 3 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 EXCLUSIVE 2 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 EXCLUSIVE 2 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 EXCLUSIVE 3 ROW AUTO 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 EXCLUSIVE 3 ROW CVT 4WD"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 PLATINUM 2 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 PLATINUM 3 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 PLATINUM PLUS 2 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 SENSE 2 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 SENSE 2 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 SENSE 3 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 SENSE 3 ROW CVT"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "X-Trail",
+    "Version": "2.5 XTREMER 2 ROW AUTO"
+  },
+  {
+    "Marca": "Nissan",
+    "Modelo": "Z",
+    "Version": "3.0 TOURING AUTO"
+  },
+  {
+    "Marca": "Omoda",
+    "Modelo": "C5",
+    "Version": "1.5 LIFE CVT"
+  },
+  {
+    "Marca": "Omoda",
+    "Modelo": "C5",
+    "Version": "1.5 PREMIUM CVT"
+  },
+  {
+    "Marca": "Omoda",
+    "Modelo": "C5",
+    "Version": "1.6 UNLIMITED PLUS DCT"
+  },
+  {
+    "Marca": "Omoda",
+    "Modelo": "O5",
+    "Version": "1.6 GT LIFE DCT"
+  },
+  {
+    "Marca": "Omoda",
+    "Modelo": "O5",
+    "Version": "1.6 GT UNLIMITED DCT"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ACTIVE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ACTIVE AUTO FL"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ALLURE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ALLURE PACK"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ALLURE PACK AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 ALLURE PACK AUTO FL"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT AUTO ADAS"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT AUTO ADAS SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT AUTO FL"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT LINE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "2008",
+    "Version": "1.2 GT LINE AUTO SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.2 ACTIVE PURETECH"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.2 ALLURE PACK PURETECH AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.2 ALLURE PURETECH"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.2 PURETECH ALLURE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.2 PURETECH GT AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "208",
+    "Version": "1.6 ALLURE PACK AUTO FL"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP ACTIVE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP ALLURE PACK AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP ALLURE PACK AUTO SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP ALLURE PACK AUTO SCC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP GT AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP GT AUTO SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP GT AUTO SCC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "1.6 THP GT LINE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "2.0 HDI ALLURE PACK AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "2.0 HDI GT AUTO SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "2.0 HDI GT AUTO SCC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "3008",
+    "Version": "2.0 HDI GT LINE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 ACTIVE"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 ALLURE AT 6VEL"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 ALLURE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 ALLURE HDI MT"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 HDI ALLURE SPA"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "301",
+    "Version": "1.6 HDI ALLURE SPA SS"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "308",
+    "Version": "1.6 GT AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "5008",
+    "Version": "1.6 ALLURE PACK AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "5008",
+    "Version": "1.6 GT LINE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "5008",
+    "Version": "1.6 THP ALLURE PACK AUTO SCC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "5008",
+    "Version": "2.0 HDI GT AUTO SC"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "5008",
+    "Version": "2.0 HDI GT LINE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Expert",
+    "Version": "2.0 HDI FURGON"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Expert",
+    "Version": "2.0 HDI FURGON 150 HP"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Landtrek",
+    "Version": "2.4 4ACTION AUTO 4WD"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Landtrek",
+    "Version": "2.4 ALLURE"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Landtrek",
+    "Version": "2.4 ALLURE AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Manager",
+    "Version": "2.2 HDI FURGON L2H2"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.2 PURETECH MAXI"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.2 PURETECH MAXI PACK"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.6 HDI MAXI"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.6 HDI MAXI 5 PTAS"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.6 HDI MAXI AIRBAGS"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.6 HDI MAXI DIESEL 5P MT"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner",
+    "Version": "1.6 HDI MAXI PACK"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner Tepee",
+    "Version": "1.6 HDI TURBO TEPEE 4P"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Partner Tepee",
+    "Version": "1.6 HDI TURBO TEPEE 7P"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.2 PURETECH ALLURE PACK AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.2 PURETECH GT AUTO"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.6 HDI ACTIVE"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.6 HDI ACTIVE SB"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.6 HDI ALLURE"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modelo": "Rifter",
+    "Version": "1.6 HDI ALLURE SB"
+  },
+  {
+    "Marca": "Porsche",
+    "Modelo": "Cayenne",
+    "Version": "2.9 S AUTO 4WD"
+  },
+  {
+    "Marca": "Porsche",
+    "Modelo": "Cayenne",
+    "Version": "3.0 E-HYBRID AUTO 4WD"
+  },
+  {
+    "Marca": "Porsche",
+    "Modelo": "Macan",
+    "Version": "2.9 V6 GTS DCT"
+  },
+  {
+    "Marca": "Porsche",
+    "Modelo": "Macan",
+    "Version": "3.0 S DCT 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Promaster Rapid",
+    "Version": "1.4 AA"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Promaster Rapid",
+    "Version": "1.4 MT AA"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Promaster Rapid",
+    "Version": "1.4 TM"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1200",
+    "Version": "2.4T BIGHORN CC"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "3.6 CREW CAB SLT TRABAJO 4X2 V6 8 AUTO"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "3.6 MHEV BIGHORN AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "3.6 MHEV TRADESMAN AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "3.6 ST REG CAB 4X2 V6 8 AUTO"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 CREW CAB SLT TRABAJO 4X2 V8 6AT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 CREW CAB SLT TRABAJO 4X4 V8 6AT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 CREW CAB SLT TRABAJO 4X4 V8 8 AUTO"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 HEMI SPORT CREW CAB 4X4 V8 6AT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 HEMI SPORT CREW CAB 4X4 V8 8AT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 HEMI SPORT REG CAB 4X4 V8 6AT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 LONGHORN CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 MHEV LARAMIE SPORT CC AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 MHEV LIMITED CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 1500",
+    "Version": "5.7 MHEV LONGHORN CREW CAB AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 2500",
+    "Version": "6.4 HD BIGHORN CREW CAB 4WD V8 AUTO"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 2500",
+    "Version": "6.4 LIMITED HD AUTO 4WD"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 4000",
+    "Version": "5.7 PL REG CAB 4X2 V8 5MT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 4000",
+    "Version": "6.4 CREW CAB CHASIS 4WD V8 6 AUTO"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 BIGHORN CREW CAB"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 BIGHORN CREW CAB CVT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 LARAMIE CREW CAB"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 LONGHORN CVT"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 SLT CREW CAB"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.3 SLT REGULAR CAB"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.6 CLUB CAB ADVENTURE TOUCH SCREEN 6.7"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.6 SLT DOBLE CAB"
+  },
+  {
+    "Marca": "Ram",
+    "Modelo": "Ram 700",
+    "Version": "1.6 SLT REGULAR CAB"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "1.3 ICONIC CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 BOSE DEH SMR AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 ICONIC AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 ICONIC DEH AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 ICONIC DEH SMR M AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 INTENS DEH"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 INTENS DEH AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 INTENS DEH M"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Captur",
+    "Version": "2.0 INTENS DEH SMR M AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "1.3 ICONIC CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "1.6 ICONIC"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "1.6 INTENS"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 CONNECT DEH"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 CONNECT DEH AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 INTENS"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 INTENS AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 INTENS DEH"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 INTENS DEH AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 ZEN"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 ZEN AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 ZEN DEH"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Duster",
+    "Version": "2.0 ZEN DEH AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kangoo",
+    "Version": "1.6 INTENS"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kangoo",
+    "Version": "1.6 INTENS PLUS"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Koleos",
+    "Version": "2.5 BOSE CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Koleos",
+    "Version": "2.5 ICONIC CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Koleos",
+    "Version": "2.5 INTENS CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Koleos",
+    "Version": "2.5 MINUIT CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kwid",
+    "Version": "1.0 BITONO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kwid",
+    "Version": "1.0 ICONIC"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kwid",
+    "Version": "1.0 INTENS"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Kwid",
+    "Version": "1.0 OUTSIDER"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Logan",
+    "Version": "1.6 INTENS AT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Logan",
+    "Version": "1.6 INTENS CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Logan",
+    "Version": "1.6 INTENS MT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Logan",
+    "Version": "1.6 ZEN MT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "1.3 OUTSIDER CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "1.6 LIFE"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "1.6 OUTSIDER TM"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "2.0 OUTSIDER"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "2.0 OUTSIDER AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "2.0 OUTSIDER SMR"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "2.0 OUTSIDER SMR AUTO"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Oroch",
+    "Version": "2.0 ZEN"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Sandero",
+    "Version": "2.0 RS MT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Stepway",
+    "Version": "1.6 INTENS CVT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Stepway",
+    "Version": "1.6 INTENS MT"
+  },
+  {
+    "Marca": "Renault",
+    "Modelo": "Stepway",
+    "Version": "1.6 ZEN MT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 BEATS AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 MARINA AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 REFERENCE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 STYLE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 XCELLENCE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Arona",
+    "Version": "1.6 XPERIENCE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 FR AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 FR DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 STYLE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 STYLE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 XCELLENCE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 XCELLENCE DCT 4WD"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ateca",
+    "Version": "1.4 XPERIENCE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.0 FR"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 FR"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 FR 20 ANIVERSARIO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 REFERENCE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 STYLE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 STYLE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 STYLE MT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 STYLE URBAN PLUS"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 STYLE URBAN PLUS AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 XCELLENCE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Ibiza",
+    "Version": "1.6 XCELLENCE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 FR"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 FR AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 FR DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 ST STYLE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 STYLE 125HP"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 STYLE 150HP"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 STYLE 150HP DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "1.4 STYLE AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "2.0 CUPRA DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "2.0 CUPRA EDICION LIMITADA DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Leon",
+    "Version": "2.0 FR AUTO"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Tarraco",
+    "Version": "1.4 TSI FR DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Tarraco",
+    "Version": "1.4 TSI STYLE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Tarraco",
+    "Version": "1.4 TSI XCELLENCE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Tarraco",
+    "Version": "1.4 TSI XCELLENCE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Toledo",
+    "Version": "1.0 STYLE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Toledo",
+    "Version": "1.4 STYLE DCT"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Toledo",
+    "Version": "1.6 REFERENCE"
+  },
+  {
+    "Marca": "Seat",
+    "Modelo": "Toledo",
+    "Version": "1.6 REFERENCE AUTO"
+  },
+  {
+    "Marca": "Sev",
+    "Modelo": "E-Wan Cross",
+    "Version": "BEV 31KWH BOLD AUTO"
+  },
+  {
+    "Marca": "Sev",
+    "Modelo": "Friday",
+    "Version": "BEV 49KWH LITE 410 AUTO"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "BRZ",
+    "Version": "2.4 LIMITED"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "BRZ",
+    "Version": "2.4 LIMITED AUTO EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "BRZ",
+    "Version": "2.4 LIMITED EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 LIMITED CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 PREMIUM CVT 4WD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 PREMIUM CVT AWD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 SPORT CVT 4WD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 SPORT CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Forester",
+    "Version": "2.5 TOURING CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "Outback",
+    "Version": "2.4 TOURING CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "WRX",
+    "Version": "2.4 LIMITED AWD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "WRX",
+    "Version": "2.4 LIMITED CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "XV",
+    "Version": "2.0 LIMITED CVT 4WD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "XV",
+    "Version": "2.0 LIMITED CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "XV",
+    "Version": "2.0 PREMIUM CVT AWD"
+  },
+  {
+    "Marca": "Subaru",
+    "Modelo": "XV",
+    "Version": "2.0 PREMIUM CVT AWD EYESIGHT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Baleno",
+    "Version": "1.4 GLE PLUS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Baleno",
+    "Version": "1.4 GLS"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Baleno",
+    "Version": "1.4 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Baleno",
+    "Version": "1.5 GLS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Baleno",
+    "Version": "1.5 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ciaz",
+    "Version": "1.4 GLX"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ciaz",
+    "Version": "1.4 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 GLS"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 GLS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 GLX"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 MHEV BOOSTERGREEN GLS"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga",
+    "Version": "1.5 MHEV BOOSTERGREEN GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga XL7",
+    "Version": "1.5 GLE PLUS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga XL7",
+    "Version": "1.5 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ertiga XL7",
+    "Version": "1.5 MHEV BOOSTERGREEN GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Fronx",
+    "Version": "1.5 MHEV BOOSTERGREEN GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Grand Vitara",
+    "Version": "1.5 MHEV BOOSTERGREEN GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GL"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GL CVT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GLS PLUS CVT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GLX"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Ignis",
+    "Version": "1.2 GLX CVT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Jimny",
+    "Version": "1.5 GLX 4WD"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Jimny",
+    "Version": "1.5 GLX 4WD VERDE OBSESION"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Jimny",
+    "Version": "1.5 GLX AUTO 4WD"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Jimny",
+    "Version": "1.5 GLX AUTO 4WD VERDE OBSESION"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "S-Cross",
+    "Version": "1.4 BOOSTERJET AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "S-Cross",
+    "Version": "1.4 BOOSTERJET GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "S-Cross",
+    "Version": "1.6 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.0 BOOSTERJET"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.0 BOOSTERJET AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLS"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLS CVT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLX"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLX AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 GLX CVT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 MHEV BOOSTERGREEN"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.2 MHEV BOOSTERGREEN GLX"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.4 BOOSTERJET SPORT"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Version": "1.4 BOOSTERJET SPORT AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.4 AG BOOSTERJET 4WD AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.4 BOOSTERJET AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.4 GLX BOOSTERJET ALL GRIP 4WD AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.4 GLX BOOSTERJET AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.6 GLS"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.6 GLS AUTO"
+  },
+  {
+    "Marca": "Suzuki",
+    "Modelo": "Vitara",
+    "Version": "1.6 GLX AUTO"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "BEV 50KWH STANDARD RANGE PLUS AUTO"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "BEV 75KWH LONG RANGE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "BEV 75KWH PERFORMANCE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "BEV LONG RANGE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "LONG RANGE"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "LONG RANGE 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "PERFORMANCE 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model 3",
+    "Version": "STANDARD RANGE PLUS"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model Y",
+    "Version": "BEV 75KWH LONG RANGE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model Y",
+    "Version": "BEV 75KWH PERFORMANCE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model Y",
+    "Version": "BEV LONG RANGE AUTO 4WD"
+  },
+  {
+    "Marca": "Tesla",
+    "Modelo": "Model Y",
+    "Version": "BEV RWD AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 LE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 LE AT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 LE MT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 XLE AT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Avanza",
+    "Version": "1.5 XLE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "C-HR",
+    "Version": "2.0 AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 HEV SE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 HEV XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 SE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 XLE NAVI AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Version": "2.5 XLE NAVI HV AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 BASE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 BASE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 BASE MT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 HEV LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 LE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 LE HYBRID AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 SE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "1.8 XLE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 BASE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 LE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 SE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 SE BITONO CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 SE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Version": "2.0 XLE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla Cross",
+    "Version": "2.0 LE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla Cross",
+    "Version": "2.0 LE HEV CVT 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla Cross",
+    "Version": "2.0 XLE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hiace",
+    "Version": "2.7 PANEL SUPERLARGA"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hiace",
+    "Version": "3.5 12 PASAJEROS"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Highlander",
+    "Version": "3.5 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Highlander",
+    "Version": "3.5 LIMITED BLUE-RAY AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Highlander",
+    "Version": "3.5 LIMITED PANORAMA ROOF AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Highlander",
+    "Version": "3.5 XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.7 BASE DOBLE CABINA"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.7 CABINA SENCILLA (B-CAB)"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.7 DOBLE CABINA BASE (D-CAB BASE)"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.7 DOBLE CABINA SR (D-CAB MID)"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.7 SR DOBLE CABINA"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.8 DIESEL 4WD DOBLE CABINA"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.8 DIESEL AUTO 4WD DOBLE CABINA"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Hilux",
+    "Version": "2.8 DOBLE CABINA DSL AT PLATINUM ROJO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HEV BASE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HEV PREMIUM AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HYBRID BASE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HYBRID BASE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HYBRID PREMIUM AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius",
+    "Version": "1.8 HYBRID PREMIUM SR"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius C",
+    "Version": "1.5 HEV AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Prius C",
+    "Version": "1.5 HYBRID AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAIZE",
+    "Version": "1.0 XLE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAIZE",
+    "Version": "1.0 XLE BITONO CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAIZE",
+    "Version": "1.0 XLE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 ADVENTURE 4WD AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 ADVENTURE AUTO AWD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 ADVENTURE AWD AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 HEV LIMITED AUTO AWD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LE AT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LIMITED AUTO 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LIMITED AUTO AWD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LIMITED AWD AT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 LIMITED HYBRID AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 XLE AUTO 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "RAV4",
+    "Version": "2.5 XLE AWD AT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "2.5 HEV LIMITED AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "2.5 HEV XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "2.5 HEV XLE PIEL AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "3.5 LE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "3.5 LIMITED AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "3.5 XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Sienna",
+    "Version": "3.5 XLE PIEL AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Tacoma",
+    "Version": "3.5 SPECIAL EDITION AUTO 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Tacoma",
+    "Version": "3.5 SPORT AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Tacoma",
+    "Version": "3.5 TRD SPORT AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Tacoma",
+    "Version": "3.5 TRD SPORT AUTO 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Tundra",
+    "Version": "5.7 1794 AUTO 4WD"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 BASE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 CORE"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 CORE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 CORE CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 R XLE AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 S"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 S AUTO"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 S CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.5 S HI CVT"
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Version": "1.6 GR LAUNCH EDITION 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Amarok",
+    "Version": "2.0 TRENDLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Amarok",
+    "Version": "3.0 HIGHLINE AUTO 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Caddy",
+    "Version": "1.6 CARGO MAXI"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Caddy",
+    "Version": "1.6 MAXI PASAJEROS COMFORTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Cross Sport",
+    "Version": "2.0 R-LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Cross Sport",
+    "Version": "3.6 FSI R-LINE AUTO 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Gol",
+    "Version": "1.6 5 PTAS. EDICION ANIVERSARIO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Gol",
+    "Version": "1.6 5 PTAS. TRENDLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Version": "1.4 COMFORTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Version": "1.4 COMFORTLINE DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Version": "1.4 HIGHLINE DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Version": "2.0 GTI DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Version": "2.0 GTI OETTINGER DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 COMFORTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 COMFORTLINE MT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 R-LINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 SPORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 TRENDLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.4 WOLFSBURG EDITION AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "1.6 STARTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "2.0 GLI DSG"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Version": "2.0 GLI EDICION ANIVERSARIO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Nivus",
+    "Version": "1.0 TSI BLACK AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Nivus",
+    "Version": "1.0 TSI HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Passat",
+    "Version": "3.6 V6 AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.0 TSI COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 COMFORTLINE PLUS"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 COMFORTLINE PLUS AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 DESIGN & SOUND"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 DESIGN & SOUND AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 EDICION ESPECIAL AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 EDICION ESPECIAL JOIN"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 SOUND AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 STARTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 STARTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Polo",
+    "Version": "1.6 TRACK RADIO 6.5"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Saveiro",
+    "Version": "1.6 ROBUST CABINA SENCILLA"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.0 TSI COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.0 TSI HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.0 TSI TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.6 COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.6 HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.6 TRENDLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.6 TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "T-Cross",
+    "Version": "1.6 TRENDLINE EDICION DE LANZAMIENTO AT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taigun",
+    "Version": "1.0 TSI COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taigun",
+    "Version": "1.0 TSI HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taigun",
+    "Version": "1.0 TSI TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taos",
+    "Version": "1.4 TSI COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taos",
+    "Version": "1.4 TSI COMFORTLINE PLUS AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taos",
+    "Version": "1.4 TSI HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Taos",
+    "Version": "1.4 TSI TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "2.0 HIGHLINE AUTO 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "2.0 TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "3.6 COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "3.6 COMFORTLINE PLUS AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "3.6 HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Teramont",
+    "Version": "3.6 HIGHLINE AUTO 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "1.4 COMFORTLINE 3 FILA DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "1.4 COMFORTLINE DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "1.4 COMFORTLINE PIEL DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "1.4 R-LINE DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "1.4 TRENDLINE PLUS DCT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "2.0 HIGHLINE DCT 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "2.0 R-LINE 10 ANIVERSARIO DCT 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Tiguan",
+    "Version": "2.0 R-LINE DCT 4WD"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 COMFORTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 COMFORTLINE MT"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 COMFORTLINE PLUS"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 COMFORTLINE PLUS AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 EDICION ESPECIAL JOIN"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 EDICION ESPECIAL JOIN AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 HIGHLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 STARTLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Vento",
+    "Version": "1.6 STARTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.0 HIGHLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.6"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.6 AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.6 COMFORTLINE AUTO"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.6 TRENDLINE"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Virtus",
+    "Version": "1.6 TRENDLINE AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "C40",
+    "Version": "BEV 69KWH RECHARGE PLUS AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "S60",
+    "Version": "2.0 B4 MHEV MOMENTUM AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "S60",
+    "Version": "2.0 B4 MHEV PLUS AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "S60",
+    "Version": "2.0 T5 IGNITE AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "S60",
+    "Version": "2.0 T5 MOMENTUM AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "1.5 PHEV T5 R-DESIGN EXPRESSION DCT AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "1.5 T5 PHEV R-DESIGN RECHARGE DCT"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 B4 MHEV PLUS AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 B4 MHEV ULTIMATE AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 MOMENTUM T4 AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 MOMENTUM T5 AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 T4 INSCRIPTION AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 T4 MOMENTUM AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 T5 R-DESIGN AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "2.0 T5 R-DESIGN AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "BEV 69KWH RECHARGE PLUS AUTO"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "BEV 78KWH RECHARGE PURE ELECTRIC AT AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC40",
+    "Version": "BEV 78KWH RECHARGE TWIN ULTIMATE AT AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 B5 MHEV MOMENTUM AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 B5 MHEV PLUS AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 B6 MHEV ULTIMATE AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 INSCRIPTION T6 AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 MOMENTUM T5 AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 R-DESIGN T6 AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 T5 MOMENTUM AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 T5 MOMENTUM AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 T6 INSCRIPTION AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 T6 INSCRIPTION AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC60",
+    "Version": "2.0 T6 R-DESIGN AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 B6 MHEV MOMENTUM AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 INSCRIPTION T6 AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 MOMENTUM T6 AUTO AWD 5P"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 R-DESIGN T6 AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 T6 INSCRIPTION AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 T6 MOMENTUM AUTO 4WD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 T6 MOMENTUM AUTO 4WD 5P"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "XC90",
+    "Version": "2.0 T6 MOMENTUM AUTO AWD"
+  },
+  {
+    "Marca": "Volvo",
+    "Modelo": "ex30",
+    "Version": "BEV 69KWH ULTRA AUTO"
+  }
+]
