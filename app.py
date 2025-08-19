@@ -12,11 +12,6 @@ from typing import List, Dict
 
 OUTDIR = "model_ratio_mm"
 
-# ---------- Reglas de negocio ----------
-DEPREC_PRIMER_ANIO    = 0.22
-MIN_DEPREC_YRS_1_5    = 0.07
-MAX_RATIO_VS_PREV_GT5 = 0.98
-
 app = FastAPI(title="API Ratio-MM Residual", version="3.0.0")
 
 class PredictIn(BaseModel):
@@ -116,14 +111,6 @@ def predict(inp: PredictIn):
         ratio = prior_val * np.exp(res_pred)
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
-
-        # reglas negocio
-        if inp.Antiguedad <= 1:
-            ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
-        elif inp.Antiguedad <= 5:
-            ratio = max(ratio, 1.0 - DEPREC_PRIMER_ANIO - MIN_DEPREC_YRS_1_5)
-        else:
-            ratio = min(ratio, MAX_RATIO_VS_PREV_GT5)
 
         precio_estimado = float(inp.listPrice) * ratio
 
