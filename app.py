@@ -112,7 +112,7 @@ def predict(inp: PredictIn):
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
         
-        # Limita la proporción para que no supere 100%
+        # Garantiza que el precio nunca sea superior al precio de lista.
         ratio = min(ratio, 1.0)
 
         precio_estimado = float(inp.listPrice) * ratio
