@@ -106,7 +106,7 @@ def build_features(inp: PredictIn):
     return sp.hstack([X_basic, mm_te_sparse, uplift_sparse], format='csr')
 
 # ========== Predicción ==========
-@app.post("/predict")
+@app.post("/predecir")
 def predict(inp: PredictIn):
     try:
         prior_val = make_prior(inp.Antiguedad, inp.Kilometraje)
