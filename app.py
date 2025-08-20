@@ -12,7 +12,7 @@ from typing import List, Dict
 
 OUTDIR = "model_ratio_mm"
 
-app = FastAPI(title="API Ratio-MM Residual", version="3.0.0")
+app = FastAPI(title="API Ratio-MM Residual", version="3.0.1")
 
 class PredictIn(BaseModel):
     Marca_Modelo: str
