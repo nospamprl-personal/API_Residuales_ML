@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import os, json
-import numpy as np
-import pandas as pd
+import numpy as np np
+import pandas as pd pd
 import joblib
 import scipy.sparse as sp
 
@@ -17,10 +17,10 @@ DEPREC_PRIMER_ANIO = 0.22
 MIN_DEPREC_YRS_1_5 = 0.07
 MAX_RATIO_VS_PREV_GT5 = 0.98
 
-app = FastAPI(title="API Ratio-MM Residual", version="4.0.0")
+app = FastAPI(title="API Ratio-MM Residual", version="5.0.0")
 
 class PredictIn(BaseModel):
-    Marca_Modelo: str # CAMBIO AQUÍ: Campo único
+    Marca_Modelo: str
     Version: str
     Transmision: str
     Location: str
@@ -81,11 +81,6 @@ def apply_km_calibration(km: float) -> float:
 
 # ========== Feature Engineering ==========
 def build_features(inp: PredictIn) -> sp.csr_matrix:
-    # NUEVO: Extraer Marca y Modelo del campo combinado
-    parts = inp.Marca_Modelo.split(' ', 1)
-    marca = parts[0]
-    modelo = parts[1] if len(parts) > 1 else ""
-
     df = pd.DataFrame([{
         'Transmision': inp.Transmision,
         'Location': inp.Location,
@@ -129,7 +124,7 @@ def predict(inp: PredictIn):
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
 
-        # Reglas de negocio
+        # Reglas de negocio (CORREGIDAS)
         if inp.Antiguedad <= 1:
             ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
         elif inp.Antiguedad <= 5:
