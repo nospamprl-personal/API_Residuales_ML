@@ -13,11 +13,11 @@ from typing import List, Dict
 OUTDIR = "model_ratio_mm"
 
 # ---------- Reglas de negocio ----------
-DEPREC_PRIMER_ANIO    = 0.22
-MIN_DEPREC_YRS_1_5    = 0.07
+DEPREC_PRIMER_ANIO = 0.22
+MIN_DEPREC_YRS_1_5 = 0.07
 MAX_RATIO_VS_PREV_GT5 = 0.98
 
-app = FastAPI(title="API Ratio-MM Residual", version="3.0.0")
+app = FastAPI(title="API Ratio-MM Residual", version="4.0.0")
 
 class PredictIn(BaseModel):
     Marca: str
@@ -31,16 +31,19 @@ class PredictIn(BaseModel):
 
 # ========== Carga de artefactos =========
 try:
-    model   = joblib.load(os.path.join(OUTDIR, 'model_residual.pkl'))
-    encs    = joblib.load(os.path.join(OUTDIR, 'encoders.pkl'))
-    te_mm   = encs['te_mm']
-    te_mm_age = encs['te_mm_age'] # Nueva variable
-    pre     = encs['pre']
+    model = joblib.load(os.path.join(OUTDIR, 'model_residual.pkl'))
+    encs = joblib.load(os.path.join(OUTDIR, 'encoders.pkl'))
+    te_mm = encs['te_mm']
+    te_mm_age = encs['te_mm_age']
+    pre = encs['pre']
     uplifts = joblib.load(os.path.join(OUTDIR, 'uplifts.pkl'))
     with open(os.path.join(OUTDIR, 'age_calibration.json'), 'r', encoding='utf-8') as f:
         AGE_CAL = json.load(f)
     with open(os.path.join(OUTDIR, 'km_calibration.json'), 'r', encoding='utf-8') as f:
         KM_CAL = json.load(f)
+    with open(os.path.join(OUTDIR, 'catalog.json'), 'r', encoding='utf-8') as f:
+        CATALOG = json.load(f)
+
     print("Artefactos del modelo cargados correctamente.")
 
 except Exception as e:
@@ -49,7 +52,6 @@ except Exception as e:
 
 # ========== Prior ==========
 def make_prior(age: float, km: float) -> float:
-    # Lógica de prior (depreciación base)
     a = float(max(0.0, min(age, 20.0)))
     if a <= 1.0:
         val_age = 0.95 - (0.95 - 0.78) * a
@@ -80,7 +82,6 @@ def apply_km_calibration(km: float) -> float:
 
 # ========== Feature Engineering ==========
 def build_features(inp: PredictIn) -> sp.csr_matrix:
-    # Construimos el DataFrame de un solo registro
     df = pd.DataFrame([{
         'Transmision': inp.Transmision,
         'Location': inp.Location,
@@ -90,30 +91,29 @@ def build_features(inp: PredictIn) -> sp.csr_matrix:
         'Marca_Modelo': f"{inp.Marca} {inp.Modelo}"
     }])
     
-    # NUEVA CARACTERÍSTICA: INTERACCIÓN MM x ANTIGÜEDAD
     bins_age = [0, 1, 2, 3, 5, 10, 20]
     labels_age = ['0-1', '1-2', '2-3', '3-5', '5-10', '10+']
     df['age_group'] = pd.cut(df['Antiguedad'], bins=bins_age, labels=labels_age, right=False)
     df['mm_age_group'] = df['Marca_Modelo'] + '_' + df['age_group'].astype(str)
 
-    # Transformación con OneHotEncoder
     X_basic = pre.transform(df)
 
-    # Target Encoding para Marca_Modelo
     mm_te_val = float(te_mm.get(df['Marca_Modelo'].iloc[0], np.mean(list(te_mm.values()))))
     mm_te_sparse = sp.csr_matrix(np.array([[mm_te_val]]))
     
-    # NUEVO TARGET ENCODING PARA INTERACCIÓN MM x ANTIGÜEDAD
     mm_age_te_val = float(te_mm_age.get(df['mm_age_group'].iloc[0], np.mean(list(te_mm_age.values()))))
     mm_age_te_sparse = sp.csr_matrix(np.array([[mm_age_te_val]]))
 
-    # Uplift (vacío por ahora)
     u = uplifts.get(df['Marca_Modelo'].iloc[0], {}).get(inp.Version, 1.0)
     uplift_sparse = sp.csr_matrix(np.array([[u]]))
 
     return sp.hstack([X_basic, mm_te_sparse, mm_age_te_sparse, uplift_sparse], format='csr')
 
-# ========== Predicción =========
+# ========== Endpoints =========
+@app.get("/catalogo")
+def get_catalogo():
+    return CATALOG
+
 @app.post("/predecir")
 def predict(inp: PredictIn):
     try:
