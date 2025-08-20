@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import os, json
-import numpy as np np
-import pandas as pd pd
+import numpy as np
+import pandas as pd
 import joblib
 import scipy.sparse as sp
 
