@@ -28,7 +28,7 @@ try:
     model   = joblib.load(os.path.join(OUTDIR, 'model_residual.pkl'))
     encs    = joblib.load(os.path.join(OUTDIR, 'encoders.pkl'))
     uplifts = joblib.load(os.path.join(OUTDIR, 'uplifts.pkl'))
-    anchors = joblib.load(os.path.join(OUTDIR, 'anchor_mm.pkl')) # Carga el nuevo artefacto
+    anchors = joblib.load(os.path.join(OUTDIR, 'anchor_mm.pkl'))
     with open(os.path.join(OUTDIR, 'age_calibration.json'), 'r', encoding='utf-8') as f:
         AGE_CAL = json.load(f)
     with open(os.path.join(OUTDIR, 'km_calibration.json'), 'r', encoding='utf-8') as f:
@@ -81,7 +81,6 @@ def build_features(inp: PredictIn):
     ver = str(inp.Version).strip()
     u = uplifts.get(mm, {}).get(ver, 1.0)
     
-    # Usamos el anchor guardado para la feature de pseudo_listPrice
     anchor_price = anchors.get(mm, np.mean(list(anchors.values())))
 
     X_num = pd.DataFrame([{
@@ -116,7 +115,7 @@ def predict(inp: PredictIn):
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
         
-        # Garantiza que el precio nunca sea superior al precio de lista proporcionado.
+        # Garantiza que el precio nunca sea superior al precio de lista.
         ratio = min(ratio, 1.0)
 
         precio_estimado = float(inp.listPrice) * ratio
@@ -124,7 +123,7 @@ def predict(inp: PredictIn):
         # Nueva regla de negocio: clamp el precio final para evitar valores extremos.
         mm = str(inp.Marca_Modelo).strip()
         anchor_price = anchors.get(mm, np.mean(list(anchors.values())))
-        max_plausible_price = float(anchor_price) * 1.25 # Límite de 1.25x el precio ancla
+        max_plausible_price = float(anchor_price) * 1.25
 
         if precio_estimado > max_plausible_price:
              precio_estimado = max_plausible_price
