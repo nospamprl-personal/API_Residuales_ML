@@ -17,7 +17,7 @@ OUTDIR = "model_ratio_mm"
 DEPREC_PRIMER_ANIO = 0.22
 
 # ---------- Configuración de la API ----------
-app = FastAPI(title="API Ratio-MM Residual", version="7.0.0")
+app = FastAPI(title="API Ratio-MM Residual", version="8.0.0")
 
 class PredictIn(BaseModel):
     Marca_Modelo: str
@@ -69,7 +69,7 @@ def make_prior(age: float, km: float) -> float:
     
     return val_age * val_km
 
-# ========== Calibración ==========
+# ========== Calibración (NO SE USAN EN LA PREDICCIÓN FINAL) ==========
 def apply_age_calibration(age: float) -> float:
     age_str = str(int(np.floor(age)))
     return AGE_CAL.get(age_str, 1.0)
@@ -120,12 +120,10 @@ def predict(inp: PredictIn):
         X = build_features(inp)
         res_pred = float(model.predict(X)[0])
 
+        # Se calcula el ratio sin las calibraciones, confiando en el modelo
         ratio = prior_val * np.exp(res_pred)
-        ratio *= apply_age_calibration(inp.Antiguedad)
-        ratio *= apply_km_calibration(inp.Kilometraje)
 
-        # Regla de negocio corregida:
-        # Se asegura que la depreciación no sea menor a la del primer año
+        # Se aplica la única regla de negocio lógica: no puede tener una depreciación menor a la del primer año
         if inp.Antiguedad > 0:
             ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
 
