@@ -120,6 +120,7 @@ def predict(inp: PredictIn):
 
         precio_estimado = float(inp.listPrice) * ratio
 
+        """
         # Nueva regla de negocio: clamp el precio final para evitar valores extremos.
         mm = str(inp.Marca_Modelo).strip()
         anchor_price = anchors.get(mm, np.mean(list(anchors.values())))
@@ -127,7 +128,7 @@ def predict(inp: PredictIn):
 
         if precio_estimado > max_plausible_price:
              precio_estimado = max_plausible_price
-
+        """
         return {
             "precio_estimado": precio_estimado,
             "ratio": ratio,
