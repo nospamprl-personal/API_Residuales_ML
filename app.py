@@ -13,10 +13,11 @@ from typing import List, Dict
 OUTDIR = "model_ratio_mm"
 
 # ---------- Reglas de negocio ----------
-# Se mantienen solo las reglas lógicas.
+# Se mantiene solo la regla de depreciación del primer año
 DEPREC_PRIMER_ANIO = 0.22
 
-app = FastAPI(title="API Ratio-MM Residual", version="6.0.0")
+# ---------- Configuración de la API ----------
+app = FastAPI(title="API Ratio-MM Residual", version="7.0.0")
 
 class PredictIn(BaseModel):
     Marca_Modelo: str
@@ -123,7 +124,8 @@ def predict(inp: PredictIn):
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
 
-        # Se aplica la única regla de negocio lógica: no puede tener una depreciación menor a la del primer año
+        # Regla de negocio corregida:
+        # Se asegura que la depreciación no sea menor a la del primer año
         if inp.Antiguedad > 0:
             ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
 
@@ -131,7 +133,8 @@ def predict(inp: PredictIn):
 
         return {
             "precio_estimado": precio_estimado,
-            "depreciacion_porcentaje": (1 - ratio) * 100
+            "depreciacion_porcentaje": (1 - ratio) * 100,
+            "version_api": app.version
         }
 
     except Exception as e:
