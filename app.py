@@ -12,10 +12,16 @@ from typing import List, Dict
 
 OUTDIR = "model_ratio_mm"
 
-app = FastAPI(title="API Ratio-MM Residual", version="3.0.1")
+# ---------- Reglas de negocio ----------
+DEPREC_PRIMER_ANIO    = 0.22
+MIN_DEPREC_YRS_1_5    = 0.07
+MAX_RATIO_VS_PREV_GT5 = 0.98
+
+app = FastAPI(title="API Ratio-MM Residual", version="3.0.0")
 
 class PredictIn(BaseModel):
-    Marca_Modelo: str
+    Marca: str
+    Modelo: str
     Version: str
     Transmision: str
     Location: str
@@ -23,87 +29,91 @@ class PredictIn(BaseModel):
     Kilometraje: float
     listPrice: float  # requerido
 
-# ========== Carga de artefactos ==========
+# ========== Carga de artefactos =========
 try:
     model   = joblib.load(os.path.join(OUTDIR, 'model_residual.pkl'))
     encs    = joblib.load(os.path.join(OUTDIR, 'encoders.pkl'))
+    te_mm   = encs['te_mm']
+    te_mm_age = encs['te_mm_age'] # Nueva variable
+    pre     = encs['pre']
     uplifts = joblib.load(os.path.join(OUTDIR, 'uplifts.pkl'))
-    anchors = joblib.load(os.path.join(OUTDIR, 'anchor_mm.pkl'))
     with open(os.path.join(OUTDIR, 'age_calibration.json'), 'r', encoding='utf-8') as f:
         AGE_CAL = json.load(f)
     with open(os.path.join(OUTDIR, 'km_calibration.json'), 'r', encoding='utf-8') as f:
         KM_CAL = json.load(f)
-    catalog_path = os.path.join(OUTDIR, 'catalog.json')
-    if os.path.exists(catalog_path):
-        with open(catalog_path, 'r', encoding='utf-8') as f:
-            CATALOG = json.load(f)
-    else:
-        CATALOG = []
-except Exception as e:
-    raise RuntimeError(f"No pude cargar artefactos desde {OUTDIR}: {e}")
+    print("Artefactos del modelo cargados correctamente.")
 
-pre   = encs['pre']
-te_mm = encs.get('te_mm', {})
+except Exception as e:
+    print(f"Error al cargar los artefactos del modelo: {e}")
+    raise RuntimeError("No se pudieron cargar los archivos del modelo. Asegúrese de ejecutar el script de entrenamiento primero.")
 
 # ========== Prior ==========
-def prior_age(age: float) -> float:
+def make_prior(age: float, km: float) -> float:
+    # Lógica de prior (depreciación base)
     a = float(max(0.0, min(age, 20.0)))
     if a <= 1.0:
-        return 0.95 - (0.95 - 0.78) * a
-    val = 0.78 * (0.96 ** (a - 1.0))
-    if a > 10.0:
-        val *= (0.93 ** (a - 10.0))
-    return max(val, 0.12)
-
-def prior_km(km: float) -> float:
+        val_age = 0.95 - (0.95 - 0.78) * a
+    else:
+        val_age = 0.78 * (0.96 ** (a - 1.0))
+        if a > 10.0:
+            val_age *= (0.93 ** (a - 10.0))
+    val_age = max(val_age, 0.12)
+    
     MAX_KM = 300_000.0
     SALV = 0.15
     k = float(max(0.0, min(km, MAX_KM)))
     x = k / MAX_KM
     exponent = 0.35 * x + 0.15 * max(0.0, x - 0.25)
-    return max(SALV ** exponent, 0.12)
+    val_km = max(SALV ** exponent, 0.12)
+    
+    return val_age * val_km
 
-def make_prior(age: float, km: float) -> float:
-    return prior_age(age) * prior_km(km)
-
-# ========== Calibraciones ==========
+# ========== Calibración ==========
 def apply_age_calibration(age: float) -> float:
-    b = str(int(round(min(max(age, 0), 20))))
-    return float(AGE_CAL.get(b, 1.0))
+    age_str = str(int(np.floor(age)))
+    return AGE_CAL.get(age_str, 1.0)
 
 def apply_km_calibration(km: float) -> float:
-    b = str(int(round(min(max(km / 20000.0, 0), 15))))
-    return float(KM_CAL.get(b, 1.0))
+    km_bin = np.floor(km / 20000) * 20000
+    km_str = str(int(km_bin))
+    return KM_CAL.get(km_str, 1.0)
 
-# ========== Features ==========
-def build_features(inp: PredictIn):
-    mm = str(inp.Marca_Modelo).strip()
-    ver = str(inp.Version).strip()
-    u = uplifts.get(mm, {}).get(ver, 1.0)
+# ========== Feature Engineering ==========
+def build_features(inp: PredictIn) -> sp.csr_matrix:
+    # Construimos el DataFrame de un solo registro
+    df = pd.DataFrame([{
+        'Transmision': inp.Transmision,
+        'Location': inp.Location,
+        'Antiguedad': inp.Antiguedad,
+        'Kilometraje': inp.Kilometraje,
+        'pseudo_listPrice': inp.listPrice,
+        'Marca_Modelo': f"{inp.Marca} {inp.Modelo}"
+    }])
     
-    anchor_price = anchors.get(mm, np.mean(list(anchors.values())))
+    # NUEVA CARACTERÍSTICA: INTERACCIÓN MM x ANTIGÜEDAD
+    bins_age = [0, 1, 2, 3, 5, 10, 20]
+    labels_age = ['0-1', '1-2', '2-3', '3-5', '5-10', '10+']
+    df['age_group'] = pd.cut(df['Antiguedad'], bins=bins_age, labels=labels_age, right=False)
+    df['mm_age_group'] = df['Marca_Modelo'] + '_' + df['age_group'].astype(str)
 
-    X_num = pd.DataFrame([{
-        'Antiguedad': float(inp.Antiguedad),
-        'Kilometraje': float(inp.Kilometraje),
-        'pseudo_listPrice': float(anchor_price),
-        'log_listPrice': np.log1p(float(anchor_price))
-    }])
+    # Transformación con OneHotEncoder
+    X_basic = pre.transform(df)
 
-    X_cat = pd.DataFrame([{
-        'Transmision': str(inp.Transmision).strip(),
-        'Location': str(inp.Location).strip()
-    }])
+    # Target Encoding para Marca_Modelo
+    mm_te_val = float(te_mm.get(df['Marca_Modelo'].iloc[0], np.mean(list(te_mm.values()))))
+    mm_te_sparse = sp.csr_matrix(np.array([[mm_te_val]]))
+    
+    # NUEVO TARGET ENCODING PARA INTERACCIÓN MM x ANTIGÜEDAD
+    mm_age_te_val = float(te_mm_age.get(df['mm_age_group'].iloc[0], np.mean(list(te_mm_age.values()))))
+    mm_age_te_sparse = sp.csr_matrix(np.array([[mm_age_te_val]]))
 
-    X_basic = pre.transform(pd.concat([X_cat, X_num], axis=1))
-
-    mm_te = float(te_mm.get(mm, np.mean(list(te_mm.values()))))
-    mm_te_sparse = sp.csr_matrix(np.array([[mm_te]]))
+    # Uplift (vacío por ahora)
+    u = uplifts.get(df['Marca_Modelo'].iloc[0], {}).get(inp.Version, 1.0)
     uplift_sparse = sp.csr_matrix(np.array([[u]]))
 
-    return sp.hstack([X_basic, mm_te_sparse, uplift_sparse], format='csr')
+    return sp.hstack([X_basic, mm_te_sparse, mm_age_te_sparse, uplift_sparse], format='csr')
 
-# ========== Predicción ==========
+# ========== Predicción =========
 @app.post("/predecir")
 def predict(inp: PredictIn):
     try:
@@ -114,33 +124,21 @@ def predict(inp: PredictIn):
         ratio = prior_val * np.exp(res_pred)
         ratio *= apply_age_calibration(inp.Antiguedad)
         ratio *= apply_km_calibration(inp.Kilometraje)
-        
-        # Garantiza que el precio nunca sea superior al precio de lista.
-        ratio = min(ratio, 1.0)
+
+        # Reglas de negocio
+        if inp.Antiguedad <= 1:
+            ratio = min(ratio, 1.0 - DEPREC_PRIMER_ANIO)
+        elif inp.Antiguedad <= 5:
+            ratio = max(ratio, 1.0 - MIN_DEPREC_YRS_1_5)
+        else:
+            ratio = min(ratio, MAX_RATIO_VS_PREV_GT5)
 
         precio_estimado = float(inp.listPrice) * ratio
 
-        """
-        # Nueva regla de negocio: clamp el precio final para evitar valores extremos.
-        mm = str(inp.Marca_Modelo).strip()
-        anchor_price = anchors.get(mm, np.mean(list(anchors.values())))
-        max_plausible_price = float(anchor_price) * 1.25
-
-        if precio_estimado > max_plausible_price:
-             precio_estimado = max_plausible_price
-        """
         return {
             "precio_estimado": precio_estimado,
-            "ratio": ratio,
-            "listPrice": inp.listPrice,
-            "Marca_Modelo": inp.Marca_Modelo,
-            "Version": inp.Version
+            "depreciacion_porcentaje": (1 - ratio) * 100
         }
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error en predicción: {e}")
-
-# ========== Catálogo ==========
-@app.get("/catalogo")
-def get_catalog() -> List[Dict[str, str]]:
-    return CATALOG
+        raise HTTPException(status_code=500, detail=str(e))
