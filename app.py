@@ -20,14 +20,13 @@ MAX_RATIO_VS_PREV_GT5 = 0.98
 app = FastAPI(title="API Ratio-MM Residual", version="4.0.0")
 
 class PredictIn(BaseModel):
-    Marca: str
-    Modelo: str
+    Marca_Modelo: str # CAMBIO AQUÍ: Campo único
     Version: str
     Transmision: str
     Location: str
     Antiguedad: float
     Kilometraje: float
-    listPrice: float  # requerido
+    listPrice: float
 
 # ========== Carga de artefactos =========
 try:
@@ -82,13 +81,18 @@ def apply_km_calibration(km: float) -> float:
 
 # ========== Feature Engineering ==========
 def build_features(inp: PredictIn) -> sp.csr_matrix:
+    # NUEVO: Extraer Marca y Modelo del campo combinado
+    parts = inp.Marca_Modelo.split(' ', 1)
+    marca = parts[0]
+    modelo = parts[1] if len(parts) > 1 else ""
+
     df = pd.DataFrame([{
         'Transmision': inp.Transmision,
         'Location': inp.Location,
         'Antiguedad': inp.Antiguedad,
         'Kilometraje': inp.Kilometraje,
         'pseudo_listPrice': inp.listPrice,
-        'Marca_Modelo': f"{inp.Marca} {inp.Modelo}"
+        'Marca_Modelo': inp.Marca_Modelo
     }])
     
     bins_age = [0, 1, 2, 3, 5, 10, 20]
